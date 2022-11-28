@@ -1,0 +1,32 @@
+// Reference=MNI
+// Zhu, 2012: self > other (encoding,(SRR +SIR+SF - ORR - OIR - OF)10Female,mean=22.64,SD=2.69,20-30)
+// Subjects=14
+0	50	-8
+20	54	16
+-22	50	28
+-16	60	20
+2	-14	38
+-58	-48	22
+28	20	-20
+-26	22	-22
+10	22	62
+8	28	50
+-56	-62	-14
+-52	-34	4
+-2	-50	48
+-8	10	-12
+-28	58	-8
+
+// Zhu, 2012: SRR > SIR (self-descriptiveness judgment,10Female,mean=22.64,SD=2.69,20-30)
+// Subjects=14
+12     30    2
+-14    -38   6
+4      -96   2
+
+// Zhu, 2012: (SRR - SF) masked by (SIR - SF) (Memory Effect Selective to Self-Relevant and Self-Irrelevant Items,10Female,mean=22.64,SD=2.69,20-30)
+// Subjects=14
+-34     -28   -6
+
+// Zhu, 2012:  (SIR - SF) masked by (SRR - SF) (Memory Effect Selective to Self-Relevant and Self-Irrelevant Items,10Female,mean=22.64,SD=2.69,20-30)
+// Subjects=14
+32      -60    -10

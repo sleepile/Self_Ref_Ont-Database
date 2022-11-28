@@ -1,0 +1,6 @@
+// Reference=MNI
+// Park,2020: self > other
+// Subjects = 28
+−26	38	−4 
+−12	50	2 
+−24	48	−2

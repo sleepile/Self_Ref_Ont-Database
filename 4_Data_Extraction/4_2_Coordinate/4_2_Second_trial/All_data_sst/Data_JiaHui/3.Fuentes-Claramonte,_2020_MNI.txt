@@ -1,0 +1,26 @@
+// Reference=MNI
+// Fuentes-Claramonte, 2020: self>facts(17 male,mean=38.74,23-61)
+// Subjects = 27
+-4	-52	30
+-10	58	-6
+-44	-60	22
+54	12	-30
+0	-20	36
+
+// Fuentes-Claramonte, 2020: other>facts(17 male,mean=38.74,23-61)
+// Subjects = 27
+-4	-52	30
+-52	-62	22
+48	-56	24
+-8	58	-4
+
+// Fuentes-Claramonte, 2020: other>self(17 male,mean=38.74,23-61)
+// Subjects = 27
+2	-64	32
+-50	18	-34
+50	-64	30
+30	60	-6
+-56	-64	18
+58	-6	-26
+
+

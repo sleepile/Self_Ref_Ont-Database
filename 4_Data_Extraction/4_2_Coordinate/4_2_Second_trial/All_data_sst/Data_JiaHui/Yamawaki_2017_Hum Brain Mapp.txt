@@ -1,0 +1,5 @@
+// Reference=MNI
+// Yamawaki, 2017, self > friend and Self> other( 9female, mean=22.5,SD=1.6) 
+// Subjects=19
+-6	55	22 
+51	-59	-8 

@@ -1,0 +1,11 @@
+// Reference=TAL
+// Yang,2012: Self-reference > other-reference
+// Subjects=17
+-1	27	21
+
+// Yang,2012: Self-reference > Semantic
+// Subjects=17
+-5    45    20
+16    33    49
+-16   10    13
+-1    -53   23

@@ -1,0 +1,23 @@
+// Reference=MNI
+// Han, 2010: self vs Font
+// Subjects=14
+-10	34	50
+-42	26	-4
+-38	8	46
+-58	0	-12
+32	-76	-32
+
+// Han, 2010: self vs Zhu Rongji
+// Subjects=14
+8	34	28
+-4	-18	42
+-34	10	-6
+
+// Han, 2010: self vs Sakyamuni
+// Subjects=14
+-4	40	16
+-34	8	-6
+
+// Han, 2010: self vs Jesus
+// Subjects=14
+18	-98	6

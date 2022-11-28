@@ -1,0 +1,12 @@
+// Reference=MNI
+// Ma, 2011, Self>Other( 12 female,mean=22,18-28，experiment1，Visual session) 
+// Subjects=23
+8    56    10
+6    42    24
+
+// Ma, 2011, Self>Other( 12 female,mean=22,18-28，experiment1，Aural session) 
+// Subjects=23
+6    -48    32
+2    56     18
+
+

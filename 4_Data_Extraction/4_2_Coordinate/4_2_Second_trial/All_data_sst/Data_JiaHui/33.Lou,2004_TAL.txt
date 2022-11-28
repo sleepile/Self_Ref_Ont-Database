@@ -1,0 +1,16 @@
+// Reference=TAL
+// Lou,2004: self>Queen(6 male,M=27,20-38,PET,,episodic retrieval)  
+// Subjects = 13 
+44	   -58	38
+
+// Lou,2004: self>Control(6 male,M=27,20-38,PETretrieval
+of judgment of mental Self and Other (Queen))  
+// Subjects = 13 
+-8	   40 	54
+4	  -50 	30
+-48     -66 	30
+-44     30	      -10
+52      -70 	34
+-12     -96 	24
+22	  -88 	-38
+

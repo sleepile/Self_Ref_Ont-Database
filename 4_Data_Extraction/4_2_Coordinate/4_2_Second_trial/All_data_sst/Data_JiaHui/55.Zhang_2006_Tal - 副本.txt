@@ -1,0 +1,31 @@
+// Reference=Talairach
+// Zhang, 2006: Self > Semantic(3female,mean=20.4,18-22)
+ // Subjects=7
+2      56     12
+8      48     14
+-2     42     44
+0      48     26
+
+// Reference=Talairach
+// Zhang, 2006: Self > LuXun (3female,mean=20.4,18-22)
+// Subjects=7
+-6      52     12
+-2      46     18
+-12     44      6
+2       44     12
+
+// Reference=Talairach
+// Zhang, 2006: Self > Semantic (experiment2,4female,mean=20.4,18-22)
+// Subjects=7 
+22      30     46
+-18    -56     10
+0       52     14
+8       46     14
+6       52     30
+
+
+// Reference=Talairach
+// Zhang, 2006: Self > Mother (experiment2,4female,mean=20.4,18-22)
+// Subjects=7 
+-14     40      4
+-10     48     -2

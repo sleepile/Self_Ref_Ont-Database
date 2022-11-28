@@ -1,0 +1,31 @@
+// Reference=talairach
+// Vanderwal 2008: self>mother
+// Subjects=17
+-18	29	19
+12	35	13
+6	35	28
+-36	-43	-8
+
+// Vanderwal 2008: mother>self
+// Subjects=17
+25	14	-26
+-30	5	-19
+-3	26	-8
+
+// Vanderwal 2008: friends>bumper cars in social attribution task (control)
+// subjects=11
+45	-43	10
+57	-7	-11
+-48	-52	16
+54	-4	-14
+51	-31	1
+-39	-67	10
+-51	-52	7
+33	-37	-16
+45	23	7
+11	53	28
+-45	32	-2
+-33	-37	-8
+6	-58	31
+24	-1	-17
+-12	41	37

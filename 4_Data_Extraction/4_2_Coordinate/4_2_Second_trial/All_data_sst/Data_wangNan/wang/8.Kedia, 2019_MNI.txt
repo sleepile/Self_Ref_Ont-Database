@@ -1,0 +1,6 @@
+// Reference=MNI
+// Kedia, 2019, Self-other >familiar-other( female=18， mean=20.06,SD=1.43) 
+// Subjects=18
+3    47    7
+27   -76   -5
+-30  -88   -5

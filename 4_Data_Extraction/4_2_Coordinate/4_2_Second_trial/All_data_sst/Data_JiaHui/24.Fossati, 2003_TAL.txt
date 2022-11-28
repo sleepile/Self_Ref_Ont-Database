@@ -1,0 +1,6 @@
+// Reference=TAL
+// Fossati, 2003: self>other（3male,mean=25.8，SD=4.4）
+// subjects=10
+10      49	   16
+-16	  40	   27
+-14	  -27    37

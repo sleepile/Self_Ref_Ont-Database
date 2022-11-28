@@ -1,0 +1,15 @@
+// Reference=MNI
+// Han,2008: self>font-judgment (8 male,M=22.5,SD=6,non-religious)  
+// Subjects = 14 
+-42.29	27.79	      -7.74
+-2.86	      53.87	      39.44
+-64.69	-33.56	3.2
+-81.99	-20.62	4.83
+
+// Han,2008: self>font-judgment (6 male,M=23.6,SD=2.87,Christian)  
+// Subjects = 14  
+-50.91	27.97	      -5.37
+-9.48  	60.46	      29.93
+-55.73	-61.86	21.53
+-84.14	-24.92	4.83
+

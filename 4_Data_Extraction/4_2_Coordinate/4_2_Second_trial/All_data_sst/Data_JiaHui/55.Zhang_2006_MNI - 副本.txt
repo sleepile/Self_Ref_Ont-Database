@@ -1,0 +1,31 @@
+// Reference=MNI
+// Zhang, 2006: Self > Semantic(3female,mean=20.4,18-22) 
+// Subjects=7
+3.14	62.27	 2.65
+9.68	53.99	 5.59
+-.68	50.69	 39.72
+1.2	55.21	 19.07
+
+// Reference=MNI
+// Zhang, 2006: Self > LuXun (3female,mean=20.4,18-22) 
+// Subjects=7
+-5.49	  57.99	3.22
+-1.06	  52.24	10.43
+-12.02  48.83	-2.49
+3.19	  49.51	3.91
+
+// Reference=MNI 
+// Zhang, 2006: Self > Semantic (experiment2,4female,mean=20.4,18-22) 
+// Subjects=7
+25.32	   38.23	42.75
+-18.04   -57.13	12.58
+1.02	   58.22	5.32
+9.69	   51.87	5.8
+7.72	   59.9	22.97
+
+// Reference=MNI
+// Zhang, 2006: Self > Mother (experiment2,4female,mean=20.4,18-22) 
+// Subjects=7
+-14.19	44.36	      -4.25
+-9.99 	52.26 	-11.83
+
