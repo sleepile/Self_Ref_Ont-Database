@@ -1,0 +1,30 @@
+// Reference=MNI
+// McAdams, 2016, Self( 19female， mean=27.9,SD=6,20-45) 
+// Subjects=19
+32   -56   36
+
+// McAdams, 2016,Self-Agree–Self-Disagree( 19female， mean=27.9,SD=6,20-45) 
+// Subjects=19
+-40	-72	28
+-32	20	48
+-4	52	0
+-16	-44	32
+
+
+// McAdams, 2016, Reflected–Self( 19female， mean=27.9,SD=6,20-45)
+12	-80	-8
+-16	-84	0
+-52	-56	20
+-20	0	-12
+
+// McAdams, 2016, F-Self – F-Other( 19female， mean=27.9,SD=6,20-45)
+38	8	6
+-42	-52	34
+50	-60	30
+6	-56	26
+-46	24	34
+
+
+
+
+

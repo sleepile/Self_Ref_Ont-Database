@@ -1,0 +1,20 @@
+// Reference=MNI
+// Wang, 2012, Self>Liu(16 female,m=22.7,SD=1.9,19-27) 
+// Subjects=32
+0    40   18
+
+// Wang, 2012, Self>father judgment(16 female,m=22.7,SD=1.9,19-27) 
+// Subjects=32
+-6    46   20
+
+// Wang, 2012, Self>best friend(16 female,m=22.7,SD=1.9,19-27) 
+// Subjects=32
+-6    34   24
+
+// Wang, 2012, Self>Font judgment(16 female,m=22.7,SD=1.9,19-27) 
+// Subjects=32
+-8    42   50
+-38   24   -14
+-48   -60  20
+-6    -64  16
+-10   16   8

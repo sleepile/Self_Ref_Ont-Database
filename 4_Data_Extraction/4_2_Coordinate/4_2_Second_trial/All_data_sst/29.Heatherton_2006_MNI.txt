@@ -1,0 +1,17 @@
+// Reference=MNI
+// Heatherton, 2006: self > friend
+// Subjects=30
+0	39	17
+-9	55	3
+6	58	3
+-45	23	-11
+48	34	-12
+45	14	-3
+59	-38	-1
+12	23	54
+-48	-68	-14
+
+// Heatherton, 2006: friend > self
+// Subjects=30
+-39	-59	44
+15	-48	-25

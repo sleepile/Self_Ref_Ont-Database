@@ -1,0 +1,5 @@
+// Reference=MNI
+// Kelley, 2002: self > other
+// Subjects=20
+10	52	2
+12	-48	50

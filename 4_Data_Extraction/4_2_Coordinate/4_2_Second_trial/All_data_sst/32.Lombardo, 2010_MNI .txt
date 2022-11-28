@@ -1,0 +1,6 @@
+// Reference=MNI
+// Lombardo, 2010: self-judgment > other-judgment
+// Subjects=33
+-6	50	-6
+-4	62	2
+22	-82	-24

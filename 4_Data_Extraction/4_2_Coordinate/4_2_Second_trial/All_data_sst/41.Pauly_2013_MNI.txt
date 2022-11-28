@@ -1,0 +1,17 @@
+// Reference=MNI
+// Pauly, 2013: positive self effect > lexical
+// Subjects=24
+-3	59	16
+-50	26	-7
+-3	-56	23
+-53	-73	30
+-56	-13	-10
+36	17	-33
+-23	-13	-23
+
+// Pauly, 2013: positive self effect > positive other effect
+// Subjects=24
+-56	17	36
+7	23	-20
+3	23	66
+16	-3	-26

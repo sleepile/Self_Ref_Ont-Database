@@ -1,0 +1,75 @@
+// Reference=MNI
+// Powell,2010: self > other in conceptual self-reference task
+// Subjects=13
+4	32	6
+44	-58	-6
+26	-44	-46
+26	-44	-20
+-16	-46	-16
+64	-30	34
+-58	-28	18
+-60	0	12
+64	-34	20
+-24	-86	26
+-16	8	-8
+6	-32	52
+-10	-28	44
+
+// Powell,2010: other > self in conceptual self-reference task
+// Subjects=13
+-62      -8    -26    
+-48      30    -14    
+
+// Powell,2010: self > other in the Agentic Self-reference Task
+// Subjects=13
+44      -48      50
+46      28       30
+-48     -44      50
+24      4        56
+
+// Powell,2010: other > self in the Agentic Self-reference Task
+// Subjects=13
+-34     -72      24 
+-10     -96      14
+-10     -80      0
+20      -94      10  
+20      -82      -16
+16      -88      30
+-60     -16      -14
+-58     -58       10 
+-32     -4       6
+-26     -48      -8 
+2       -52      -24
+-26     -40      74
+-36     -6       -18
+
+// Powell,2010: self > other in the Agentic Self-reference Task(experiment2)
+// Subjects=15
+44      -32     44 
+-40     -36     46 
+-22     -4      54 
+-56     10      38 
+26      4       62 
+12      40      20 
+
+// Powell,2010: other > self in the Agentic Self-reference Task(experiment2)
+// Subjects=15
+-14     -96    -10
+-16     -96    20 
+12      -86    32 
+-28     -54    -10
+42      -8     -3
+-6      26     2
+
+// Powell,2010:Brain Regions Obtained from the Contrast of Self > Other on the Agentic Self-reference Task (Experiment 2) that Also
+Demonstrated a Selective Correlation with Subsequent Memory for Self Trials
+// Subjects=15
+16     -66    50
+30     -56    54
+34     -74    42
+40     -64    56
+34     -64    30
+-16    -68    48
+-48    32     32
+-40    32     22
+26     4      62

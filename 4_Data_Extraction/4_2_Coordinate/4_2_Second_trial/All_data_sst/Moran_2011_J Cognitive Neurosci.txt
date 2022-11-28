@@ -1,0 +1,10 @@
+// Reference=MNI
+// Moran, 2011, Self>other
+// Subjects=21
+-6    60   9
+3     45   0
+6     -24  39
+
+// Moran, 2011, Bush>other
+// Subjects=21
+3	-90	3

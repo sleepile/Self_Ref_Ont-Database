@@ -1,0 +1,17 @@
+// Reference=MNI
+// Modinos, 2009: self > other
+// Subjects=16
+-8	28	28
+6	28	28
+26	54	30
+-24	52	32
+20	52	36
+-24	50	22
+66	-40	18
+8	10	62
+-36	20	4
+
+// Modinos, 2009: other > self
+// Subjects=16
+4	-62	32
+20	-68	50

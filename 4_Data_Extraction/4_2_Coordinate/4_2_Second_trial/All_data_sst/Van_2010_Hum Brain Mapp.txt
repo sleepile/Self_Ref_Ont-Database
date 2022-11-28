@@ -1,0 +1,33 @@
+// Reference = MNI
+// Van buuren 2010: self > control
+// Subjects=19
+-4	48	16
+-8	-60	8
+-32	16	-24
+44	-16	-20
+	
+// Van buuren 2010: other(prime-minister) > control
+// Subjects=19
+-60	-12	-16
+0	-56	16
+48	12	-28
+-4	52	32
+-44	8	-36
+0	48	-16
+
+// Van buuren 2010: self > other(prime-minister)
+// Subject=19
+-8	-64	4
+0	52	20
+-64	-52	8
+-8	0	8
+40	-80	0
+24	-24	-16
+-20	40	40
+-4	-48	44
+-32	-84	4
+64	-48	28
+44	8	16
+-36	-16	36
+32	52	24
+12	12	64

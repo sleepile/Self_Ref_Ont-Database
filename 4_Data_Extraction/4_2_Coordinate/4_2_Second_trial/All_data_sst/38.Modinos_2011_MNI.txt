@@ -1,0 +1,27 @@
+// Reference=MNI
+// Modinos,2011: Self > Semantic
+// Subjects=18
+-8        52       -2
+-4        58       22
+-6       -52       26
+-34       18       -12
+32        18       -16
+
+// Modinos,2011: Other > Semantic
+// Subjects=18
+4        -58        30 
+-6        58        26 
+-2        64        4 
+-8        52        -2 
+
+// Modinos,2011: Self > Other
+// Subjects=18
+-2        42        6 
+-40       20        4
+44        18        -6 
+-12       54        2 
+
+
+// Modinos,2011: Other > Self
+// Subjects=18
+4        -58        30

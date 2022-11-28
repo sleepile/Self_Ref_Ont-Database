@@ -1,0 +1,26 @@
+// Reference=MNI
+// Ma, 2014, Self>Public-figure-judgments( 15 female,mean=22.7,SD=1.9,18-28,Chinese) 
+// Subjects=30
+2    -86   34
+62   -56   30
+-56  -60   20
+8    30    4
+-2   34    22
+4    24    40
+-24  42    38
+-24  46    36
+-6   26    24
+-6   50    12
+-4   -64   54
+
+
+// Ma, 2014, Self>Public-figure-judgments( 15 female,mean=25,SD=4.09,18-28,Danish) 
+// Subjects=30
+-4    34    4
+-4    46    14
+-4    34    0
+-2    44    10
+18    6     10
+-2    -16   10
+-4    48    8
+2     36    8

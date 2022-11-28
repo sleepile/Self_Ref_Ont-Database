@@ -1,0 +1,13 @@
+// Reference=MNI
+// Furichi, 2019, self>button (healthy subjects,7 female, mean=27.5,SD=4.3,23-61) 
+// Subjects=15
+-18   -95   -2
+-42   13    24
+-5    17    47
+-1    -19   8
+-48   -35   0
+
+// Furichi, 2019, (self>button) >(other >button)(healthy subjects,7 female, mean=27.5,SD=4.3,23-61) 
+// Subjects=15
+-23   -21    -10
+-1    -15    46

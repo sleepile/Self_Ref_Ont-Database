@@ -1,0 +1,16 @@
+// Reference=MNI
+//Ochsner, 2005: Self > Syllable
+// Subjects=17
+-6	32	30
+
+//Ochsner,2005: You About Self > You About Friend
+// Subjects=16
+26        42        4
+
+//Ochsner,2005: You about Self > You About Other
+// Subjects=16
+36        42        10
+46        -54       44
+-18       22        56
+-12       40        42
+8         32        32
