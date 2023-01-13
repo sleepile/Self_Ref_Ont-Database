@@ -1,1 +1,1 @@
-# Self_reference_ALE
+# Ontology_Self_reference
