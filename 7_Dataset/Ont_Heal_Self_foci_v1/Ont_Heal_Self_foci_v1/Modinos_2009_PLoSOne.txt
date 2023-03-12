@@ -1,0 +1,18 @@
+// Reference=MNI
+// Modinos, 2009: [self>semantic]>[an acquaintance>semantic] (6 females, mean=20.8, sd=2.5)
+// Standardized name for contrast: self>close
+// Subjects=16
+-8	28	28
+6	28	28
+26	54	30
+-24	52	32
+20	52	36
+-24	50	22
+66	-40	18
+8	10	62
+-36	20	4
+
+// Modinos, 2009: [an acquaintance>semantic]>[self>semantic] (6 females, mean=20.8, sd=2.5)
+// Subjects=16
+4	-62	32
+20	-68	50

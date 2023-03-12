@@ -1,0 +1,29 @@
+// Reference=MNI
+// Oetken, 2017: self>lex (11 females, mean=26.5, sd=5.51, 21-42) 
+// Standardized name for contrast: self>nonPerson
+// Subjects=20
+-51	26	-8
+-42	 -58	28
+27	-76	-29
+-3	-49	28
+42	29	-17
+-42	14	49
+45	14	-35
+60	-64	28 
+
+// Oetken, 2017: [(self_sad>happy)>(lex_sad>happy)]masked with self_sad>lex_sad (11 females, mean=26.5, sd=5.51, 21-42) 
+// Subjects=20
+18	-13	-17 
+
+// Oetken, 2017: [(self_sad>neutral)>(lex_sad>neutral)] masked with self_sad>lex_sad (11 females, mean=26.5, sd=5.51, 21-42) 
+// Subjects=20
+15	-10	-20 
+-54	-31	10
+
+// Oetken, 2017: [(self_happy>sad)>(lex_happy>sad)] masked with self_happy>lex_happy (11 females, mean=26.5, sd=5.51, 21-42) 
+// Subjects=20
+18	11	67
+
+// Oetken, 2017: [(self_happy>neutral)>(lex_happy>neutral)] masked  with self_happy>lex_happy (11 females, mean=26.5, sd=5.51, 21-42) 
+// Subjects=20
+NA

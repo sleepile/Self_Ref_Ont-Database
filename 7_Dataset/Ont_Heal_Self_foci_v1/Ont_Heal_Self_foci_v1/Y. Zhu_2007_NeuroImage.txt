@@ -1,0 +1,72 @@
+// Reference=Talairach
+// Zhu, 2007: self>font (Chinese, 5 females, mean=21.5, sd=1.13) 
+// Standardized name for contrast: self>nonPerson
+// Subjects=13 
+-42	22	  -12
+2	54	  20	
+-14	60	  32
+
+// Zhu, 2007: mother>font (Chinese, 5 females, mean=21.5, sd=1.13) 
+// Subjects=13 
+-50	32	-6
+-6	54	40
+-8	64	20
+
+// Zhu, 2007: other>font (Chinese, 5 females, mean=21.5, sd=1.13) 
+// other: Bill Clinton, for Western subjects, or Rongji Zhu, for Chinese subjects
+// Subjects=13 
+-56	26	8
+
+// Zhu, 2007: self>font (Western, 5 females, mean=23.1, sd=2.33) 
+// Standardized name for contrast: self>nonPerson
+// Subjects=13 
+-62	-36	4
+-30	 16	-14
+-6	 24	62
+-6	52	44
+
+// Zhu, 2007: mother>font (western, 5 females, mean=23.1, sd=2.33) 
+// Subjects=13 
+-54 	28 	-6
+-56	-30	2
+-10	34	52
+-22	-68	6
+16	-96	-2
+22	-60	0
+
+// Zhu, 2007: other>font (western, 5 females, mean=23.1, sd=2.33) 
+// Subjects=13 
+-58	0	 -18
+54	10	 -20	 
+32	-90	 2	 
+-6	58	 34
+20	-66	 10	 
+
+// Zhu, 2007: self>mother (western, 5 females, mean=23.1, sd=2.33) 
+// Standardized name for contrast: self>close
+// Subjects=13 
+-4	46	-6
+
+// Zhu, 2007: self>other (western, 5 females, mean=23.1, sd=2.33) 
+// Standardized name for contrast: self>celebrity
+// Subjects=13 
+0	51	3
+-6	33	0
+
+// Zhu, 2007: self>other (chinese, 5 females,  mean=21.5, sd=1.13) 
+// Standardized name for contrast: self>celebrity
+// Subjects=13 
+8	55	6
+-6	36	20
+-24	57	12
+
+// Zhu, 2007: mother>other (chinese, 5 females, mean=21.5, sd=1.13) 
+// Subjects=13 
+2	55	3
+0	18	18
+-22	59	15
+
+// Zhu, 2007: mother>other (western, 5 females, mean=23.1, sd=2.33) 
+// Subjects=13 
+-4	35	-2
+

@@ -1,0 +1,53 @@
+// Reference=MNI
+// Wang, 2012: Self>Liu (16 females, mean=22.7, sd=1.9, 19-27) 
+// Standardized name for contrast: self>celebrity
+// Subjects=32
+0	40	18
+
+// Wang, 2012: Self>father judgment (16 females, mean=22.7, sd=1.9, 19-27) 
+// Standardized name for contrast: self>close
+// Subjects=32
+-6	46	20
+
+// Wang, 2012: Self>best friend (16 females, mean=22.7, sd=1.9, 19-27) 
+// Standardized name for contrast: self>close
+// Subjects=32
+-6	34	24
+
+// Wang, 2012: Self>Font judgment (16 females, mean=22.7, sd=1.9, 19-27) 
+// Standardized name for contrast: self>nonPerson
+// Subjects=32
+-8	42	50
+-38	24	-14
+-48	-60	20
+-6	-64	16
+-10	16	8
+
+// Wang, 2012: Mother>Liu judgment (16 females, mean=22.7, sd=1.9, 19-27) 
+// Subjects=32
+0	42	20
+-2	26	30
+
+// Wang, 2012: Mother>Font judgment (16 females, mean=22.7, sd=1.9, 19-27) 
+// Subjects=32
+-12	56	34
+-46	26	-6
+-64	-30	-2
+-8	-54	28
+-12	14	8
+
+// Wang, 2012: Father>Font judgment (16 females, mean=22.7, sd=1.9, 19-27) 
+// Subjects=32
+-10	44	46
+-46	26	-4
+-52	-24	-6
+-6	-54	30
+-14	14	12
+
+// Wang, 2012: Best Friend>Font judgment (16 females, mean=22.7, sd=1.9, 19-27) 
+// Subjects=32
+-10	46	52
+-46	26	-6
+-52	-26	-4
+-8	-54	28
+-14	6	14

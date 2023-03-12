@@ -1,0 +1,45 @@
+// Reference=Talairach
+// Vanderwal, 2008: self>mother (7 females, mean=21.5, sd=1.8)
+// Standardized name for contrast: self>close
+// Subjects=17
+12	35	13
+6	35	28		
+-36	-43	-8
+
+// Vanderwal, 2008: mother>self (7 females, mean=21.5, sd=1.8)
+// Subjects=17
+25	14	-26
+-30	5	-19
+-3	26	-8
+
+// Vanderwal, 2008:(Self>Letter) AND (Mother>Letter) (7 females, mean=21.5, sd=1.8)
+// Subjects=17
+-9	44	43
+-6	50	31
+-51	20	16
+-45	23	-2
+-45	23	-23
+-6	-52	25
+-48	-37	1
+15	26	49
+42	14	-23
+-15	-55	4
+12	-70	7
+
+// Vanderwal, 2008: friends>bumper cars (in social attribution task)
+// Subjects=11
+45	-43	10
+57	-7	-11
+-48	-52	16
+54	-4	-14
+51	-31	1
+-39	-67	10
+-51	-52	7
+33	-37	-16
+45	23	7
+11	53	28
+-45	32	-2
+-33	-37	-8
+6	-58	31
+24	-1	-17
+-12	41	37

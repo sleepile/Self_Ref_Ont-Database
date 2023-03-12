@@ -1,0 +1,51 @@
+// Reference=MNI
+// Zeng, 2021: Personal self-worth>control (27 females, mean=20.16, sd=1.5, 18-24) 
+// Standardized name for contrast: self>nonPerson
+// Subjects=50
+24	57	12 
+-24	45	21
+36	33	33
+39	-18	54 
+-30	15	-15 
+6	30	21
+-6	12	63
+-30	-45	42
+-54	-9	18
+-12	-54	-18
+
+// Zeng, 2021: Relational self-worth>control (27 females, mean=20.16, sd=1.5, 18-24) 
+// Standardized name for contrast: self>nonPerson
+// Subjects=50
+9	57	12 
+39	-21	57 
+-30	15	-18 
+30	18	-15
+9	33	-3
+-45	-60	21
+51	-51	24
+-36	6	48
+-60	-6	-18 
+-12	-54	-18
+
+
+// Zeng, 2021: Collective self-worth>control (27 females, mean=20.16, sd=1.5, 18-24) 
+// Standardized name for contrast: self>nonPerson
+// semantic control conditions: sentences involved general knowledge
+// Subjects=50
+39	-21	57 
+-48	-54	18
+9	-21	48
+-6	6	60
+12	12	42
+-39	3	45 
+48	-18	21
+-15	-51	-21
+
+
+// Zeng, 2021: conjunction area of three contrasts (27 females, mean=20.16, sd=1.5, 18-24) 
+// Subjects=50
+39	-21	57
+-15	-51	-21
+
+
+

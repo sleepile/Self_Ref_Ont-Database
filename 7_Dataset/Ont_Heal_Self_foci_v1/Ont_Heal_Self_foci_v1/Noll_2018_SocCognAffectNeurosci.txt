@@ -1,0 +1,40 @@
+// Reference=MNI
+// Noll, 2018: Self>Change (37 females, mean=31.16, sd=5.78, 20-43) 
+// Change: whether they believe these qualities can change for parents in general
+// Standardized name for contrast: self>nonPerson
+// Subjects=37
+0	34	-6
+-4	34	2
+0	50	0
+-10	-62	18
+4	-62	26
+6	-52	26
+-46	-56	50
+-42	-54	42
+-34	-68	52
+42	14	46
+0	-16	40
+0	-6	6
+-2	-18	10
+-44	48	2
+-8	-28	50
+34	-46	-28
+22	-50	-26
+34	54	0
+46	-60	48
+46	-52	40
+
+// Noll, 2018: DS>DU (37 females, mean=31.16, sd=5.78, 20-43) 
+// Positive/developmentally supportive (DS) qualities, Negative/developmentally unsupportive  (DU) qualities
+// Subjects=37
+-42	0	34
+-46	6	26
+-52	12	28
+14	-76	10
+10	-90	4
+-28	-56	48
+-28	-60	58
+
+// Noll, 2018: Interaction of instruction and trait (37 females, mean=31.16, sd=5.78, 20-43) 
+// Subjects=37
+NA

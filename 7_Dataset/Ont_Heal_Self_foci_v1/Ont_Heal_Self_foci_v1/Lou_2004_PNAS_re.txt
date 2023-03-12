@@ -1,0 +1,47 @@
+// Reference=Talairach
+// Lou, 2004: self>Queen (7 females, mean=27, 20-38, PET)  
+// Standardized name for contrast: self>celebrity
+// Subjects=13 
+44	-58	38
+
+// Lou, 2004: self>Control (7 females, mean=27, 20-38, PET )  
+// Standardized name for contrast: self>nonperson
+// Subjects=13 
+-8 	40 	54
+4 	-50 	30
+-48 	-66 	30
+-44 	30 	-10
+52 	-70 	34
+-12 	-96 	24
+22	 -88 	-38
+
+// Lou, 2004: Queen>self (7 females, mean=27, 20-38, PET)  
+// Subjects=13 
+-50	2	-20
+
+// Lou, 2004: Control>self (7 females, mean=27, 20-38, PET)  
+// Subjects=13 
+58 	-56 	-14
+-56 	-62	-12
+-52 	-44 	42
+58 	-38 	48
+42 	36 	32
+30 	-4 	62
+
+// Lou, 2004: Queen>Control (7 females, mean=27, 20-38, PET)  
+// Subjects=13 
+-8 	38 	54
+-48 	-66	28
+-54 	-2 	-22
+-4 	-52 	24
+22 	-88 	-38
+46 	12 	-26
+-12 	-98 	22
+
+// Lou, 2004: Control>Queen (7 females, mean=27, 20-38, PET)  
+// Subjects=13 
+60 	-54 	-14
+-56 	-62 	-12
+30 	-70	48
+-54 	-46 	48
+-18 	-72 	56

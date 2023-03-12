@@ -1,0 +1,21 @@
+// Reference=MNI
+// Ochsner, 2005: Self>Syllable (exp1, 9 females, mean=29)
+// Standardized name for contrast: self>nonPerson
+// Subjects=17
+-6	32	30
+
+// Ochsner, 2005: Close>Syllable (exp1, 9 females, mean=29)
+// Subjects=17
+0	56 	-4
+-2 	56 	20
+-8 	40 	34
+
+// Ochsner, 2005: Positive>Syllable (exp1, 9 females, mean=29)
+// Subjects=17
+2 	52 	-10
+-8 	52 	16
+2	48 	4
+0 	-56 	30
+
+
+

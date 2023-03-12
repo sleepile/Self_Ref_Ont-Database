@@ -1,0 +1,101 @@
+// Reference=Talairach
+// Yoshimura, 2009: self>semantic (8 females, mean=23.3, sd=2.7)
+// Standardized name for contrast: self>nonPerson
+// Subjects=15
+-8	-52	41
+-8	-61	23
+8	-49	28
+-4	44	-12
+2	37	2
+6	36	-10
+4	55	16
+-2	52	29
+-55	5	-24
+-57	-10	-18
+51	3	-25
+59	-8	-13
+-59	-55	19
+
+// Yoshimura, 2009: other>semantic (8 females, mean=23.3, sd=2.7)
+// other: Prime Minister of Japan, JunichiroKoizumi
+// Subjects=15
+-12	-55	29
+6	-43	28
+10	-47	23
+-44	23	-33
+-57	1	-22
+-40	-72	40
+-50	-67	25
+53	-58	14
+53	-65	24
+53	-12	-16
+61 	-5 	-15
+4 	55	 -17
+8 	58	 27
+2 	42	 -14
+
+// Yoshimura, 2009: Self>Other (8 females, mean=23.3, sd=2.7)
+// Standardized name for contrast: self>celebrity
+// Subjects=15
+-18	-20	-14
+
+// Yoshimura, 2009: Other-reference>Self-reference (8 females, mean=23.3, sd=2.7)
+// Subjects=15
+50	-65	24
+42	-70	37
+
+// Yoshimura, 2009: Self/positive>semantic/positive (8 females, mean=23.3, sd=2.7)
+// Standardized name for contrast: self>nonPerson
+// Subjects=15
+8	-54	25
+-4	-58	43
+-4	-47	-30
+2	55	17
+
+// Yoshimura, 2009: Self/negative>semantic/negative (8 females, mean=23.3, sd=2.7)
+// Standardized name for contrast: self>nonPerson
+// Subjects=15
+-8	-54	40
+-8	-61	21
+8	-47	24
+-42	-24	-6
+-51	-16	-9
+-51	-9	-20
+2	35	2
+0	51	12
+-4	42	-12
+53	-14	-13
+
+// Yoshimura, 2009: Other/positive>semantic/positive (8 females, mean=23.3, sd=2.7)
+// Subjects=15
+10	-47	23
+2	-45	32
+6	-60	36
+-58	-1	-22
+48	18	-29
+56	-12	-18
+2	59	17
+6	58	28
+44	-63	22
+-40	-74	37
+-50	-57	23
+-44	14	-30
+
+// Yoshimura, 2009: Other/negative>semantic/negative (8 females, mean=23.3, sd=2.7)
+// Subjects=15
+-12	-53	30
+10	-47	30
+-55	5	-25
+-63	-12	-16
+53	-65	25
+-51	-63	29
+
+// Yoshimura, 2009: Self/negative>Other/negative (8 females, mean=23.3, sd=2.7)
+// Standardized name for contrast: self>celebrity
+// Subjects=15
+2	23	-3	
+
+// Yoshimura, 2009: Self/positive>Other/positive (8 females, mean=23.3, sd=2.7)
+// Standardized name for contrast: self>celebrity
+// Subjects=15
+NA

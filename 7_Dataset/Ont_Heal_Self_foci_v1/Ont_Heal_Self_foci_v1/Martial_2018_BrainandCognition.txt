@@ -1,0 +1,28 @@
+// Reference=MNI
+// Martial, 2018: Self General>Control (12 females, mean=22, sd=2, 19-26) 
+// Standardized name for contrast: self>nonPerson
+// Subjects=20
+8	-86	-6
+52	-64	34
+12	4	14
+-44	28	-8
+
+// Martial, 2018: Self Specific>Control (12 females, mean=22, sd=2, 19-26) 
+// Standardized name for contrast: self>nonPerson
+// Subjects=20
+-4	-86	-8
+22	26	46
+
+// Martial, 2018: friend General>Control (12 females, mean=22, sd=2, 19-26) 
+// Subjects=20
+-6	-86	-6
+
+// Martial, 2018: friend Specific>Control (12 females, mean=22, sd=2, 19-26) 
+// Subjects=20
+-4	-86	-6
+-50	-68	22
+
+
+
+
+

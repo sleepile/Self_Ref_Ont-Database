@@ -1,0 +1,30 @@
+// Reference=MNI
+// Wade-Bohleber, 2019: self-relevant>control (27 females, mean=33.85, sd=12.65)
+// Standardized name for contrast: self>nonPerson
+// Subjects=35
+32	-54	6
+32	16	10
+-24	16	10
+-14	-54	30
+-54	-68	8
+52	-70	0
+-2	2	50
+
+// Wade-Bohleber, 2019: other>control (27 females, mean=33.85, sd=12.65)
+// Non-relevant items (other) that the participants had selected in the MIPQS and had memorized with reference to their narratives, control pictures of the IRPS (control)
+// Subjects=35
+-8	-56	34
+50	-68	2
+-52	-52	14
+-4	8	56
+-46	-22	56
+14	-52	-26
+
+// Wade-Bohleber, 2019: self>other (27 females, mean=33.85, sd=12.65)
+// Standardized name for contrast: self>close
+// Subjects=35
+NA
+
+// Wade-Bohleber, 2019: other>self (27 females, mean=33.85, sd=12.65)
+// Subjects=35
+NA
