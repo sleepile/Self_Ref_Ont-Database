@@ -1,0 +1,797 @@
+﻿First Author,,,Benoit,Chen,Cikara,D'Argembeau,Fields,Fossati,Gutchess,Gutchess,Han,Han,Heatherton,Herold,Hornung,Jenkins,Kedia,Kelly,Knyazev,Koski,Koski,L. Zhu,Laurita,Li,Long,Lou,Ma,Martial,Modinos,Modinos,Moran,Noll,Ochsner,Ochsner,Oetken,Pauly,Pfeifer,Powell,Powell,Schmitz,Sul,Sul,Van,van der Cruijsen,Vanderwal,W. Yang,Wade-Bohleber,Wang,Wang,Wu,Zhang,Zhang,Yang,Yang,Yaoi,Yin,Yoshimura,Zeng,Zhang,Zhang
+Last Author,,,Burgess,Heatherton,Saxe,Salmon,Kuperberg,Mayberg,Schacter,Schacter,Ma,Ma,Kelley,Bermpohl,Derntl,Mitchell,Linden,Heatherton,Rudych,Beer,Beer,Yang,Spreng,Wu,Cunningham,Lisanby,,D'Argembeau,Áleman,Aleman,Gabrieli,Fisher,D’Esposito,D’Esposito,Pohl,Habel,Dapretto,Mitchell,Mitchell,Johnson,Kang,Kang,Vink,Crone,Schultz,Q.Zhang,Richter,Han,Sui,Zhang,Y.Zhu,Y.Zhu,Zhang,Han,Osaka,Egner,Yamawaki,Yang,Y.Zhu,Y.Zhu
+Year,,,2010,2015,2014,2007,2019,2003,2007,2010,2008,2010,2006,2015,2019,2011,2019,2002,2020,2020,2020,2012,2020,2019,2020,2004,2014,2018,2009,2011,2011,2018,2005,2005,2017,2013,2007,2010,2010,2004,2011,2011,2010,2017,2008,2013,2019,2012,2016,2010,2006,2006,2012,2016,2015,2021,2009,2021,2006,2006
+Journal,,,NeuroImage,Cult Brain,Neuroimage,Journal of Cognitive Neuroscience,Social Cognitive and Affective Neuroscience,Am J Psychiatry,Social Neuroscience,Social Neuroscience,Social Neuroscience,Social Cognitive and Affective Neuroscience,SCAN,Brain Struct Funct,Frontiers in Behavioral Neuroscience,Soc Neurosci,Soc Neurosci,Journal of Cognitive Neuroscience,Frontiers in Human Neuroscience,NeuroImage,NeuroImage,Hippocampus,Social Cognitive and Affective Neuroscience,Neuroscience Letters,Cortex,PNAS,,Brain and Cognition,PLoS One,Neuropsychology,Journal of Cognitive Neuroscience,Social Cognitive and Affective Neuroscience,Neuroimage,Neuroimage,Neuropsychologia,SCAN,Journal of Cognitive Neuroscience,J Cogn Neurosci,J Cogn Neurosci,Neuroimage,Social Neuroscience,Social Neuroscience,Human Brain Mapping,Brain and Cognition,Neuroimage,PLoS One,Behavioural Brain Research,Social Cognitive and Affective Neuroscience,Frontiers in Psychology,Soc Cogn Affect Neurosci,Sci China C Life Sci,Sci China C Life Sci,Neuropsychologia,Nature,Front Hum Neurosci,The Journal of Neuroscience,Brain and Cognition,Journal of Personality,Sci China C Life Sci,Sci China C Life Sci
+Study,,,1,1,1,1-Jan,1,1-Jan,1,1,1,1,1,1,1,1,1,1,1,1,2-Jan,1,1,1,1,1,,1,1,1,1,1,1,2,1,1,1,1,2,1,1,2,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2
+Coder*,,,WJQ,WJQ,WJQ,WJQ,WJQ,WJQ,WJQ,WJQ,WJQ,WJQ,WJQ,WJQ,WJQ,WJQ,WJQ,Shanshan,Shanshan,Shanshan,Shanshan,Shanshan,Shanshan,Shanshan,Shanshan,Shanshan,Shanshan,Shanshan,Shanshan,Shanshan,Shanshan,Shanshan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Nan
+Article_id,,,Benoit_2010_Neuroimage,Chen_2015_CultBrain,Cikara_2014_NeuroImage,D'Argembeau_2007_JCognNeurosci,Fields_2019_SocCognAffectNeurosci,Fossati_2003_AmJPsychiatry,Gutchess_2007_SocialNeurosci,Gutchess_2010_Soc Neurosci,Han_2008_Social Neurosci-UK,Han_2010_SocCognAffectNeur,Heatherton_2006_SCAN,Herold_2015_BrainStructFunct,Hornung_2019_FrontiersinBehvNeurosci,Jenkins_2011_SocNeurosci,Kedia_2017_SocialNeuroscience,Kelly_2002_JCognitiveNeurosci ,Knyazev_2020_FrontHumNeurosci,Koski_2020_NeuroImage_exp1,Koski_2020_NeuroImage_exp2,L. Zhu_2012_Hippocampus,Laurita_2020_SocCognAffectNeurosci,Li_2019_NeurosciLett,Long_2020_Cortex,Lou_2004_PNAS,Ma_2014_SocCognAffectNeurosci,Martial_2018_BrainandCognition,Modinos_2009_PLoSOne,Modinos_2011_Neuropsychology,Moran_2011_JCognitiveNeurosci,Noll_2018_SocCognAffectNeurosci,Ochsner_2005_NeuroImage_exp1,Ochsner_2005_NeuroImage_exp2,Oetken_2017_Neuropsychologia,Pauly_2013_SCAN,Pfeifer_2007_JCognitiveNeurosci,Powell_2010_JCognNeurosci_exp1,Powell_2010_JCognNeurosci_exp2,Schmitz_2004_NeuroImage,Sul_2011_SocNeurosci-UK_exp1,Sul_2011_SocNeurosci-UK_exp2,Van_2010_HumBrainMapp,Van_2017_BrainandCogn,Vanderwal_2008_NeuroImage,W.Yang_2013_PLoSOne,Wade-Bohleber_2019_BehaviouralBrainResearch,Wang_2012_SocCognAffectNeurosci,Wang_2016_FrontiersinPsychology,Wu_2010_SocCognAffectNeurosci,Y. Zhu_2007_NeuroImage,Yamawaki_2017_HumBrainMapp,Yang_2012_Neuropsychologia,Yang_2016_ScientificReports,Yaoi_2015_FrontiersinHumanNeurosci,Yin_2021_JNeuroscience,Yoshimura_2009_BrainCognition,Zeng_2021_JournalofPersonality,Zhang_2006_SciChinaCLifeSci_exp1,Zhang_2006_SciChinaCLifeSci_exp2
+,group,content,,"More-Eastern,Less-Eastern",,,,,young，elderly,young，elderly,"non-religious,Christians",,,,"Women,Men",,,,,,,,"young,older","1PP,3PP",,,,,,"Low PP( psychosis proneness),High PP",,,,,NA,,"adults,children",,(only 15 finish Conceptual Self-reference Task),,,,,,NA,,NA,,,"Han,Tibetan",,,,,,,NA,,,
+Sample,Demographics_group1,Size,13,14,21,17,17,10,19,17,14,14,30,28,17,15,18,21,47,44,48,14,29,20,38,13,,20,16,18,21,37,17,16,20,24,12,13,18,18,50,19,19,30,17,25,35,32,27,16,7,7,17,25,18,28,15,50,7,7
+,,Female,5,6,11,11,17,7,10,8,6,7,16,14,17,10,18,9,26,44,48,10,16,10,22,7,,12,6,8,13,37,9,9,11,12,6,9,8,9,26,10,11,15,7,14,27,16,16,8,3,4,8,12,missing,11,8,27,3,4
+,,Race/ethnicity,British,NA,NA,French speaking young adults,"non-Hispanic White (12), Hispanic (1), Asian (1), mixed Asian/White (2) and unreported (1)",,native English speaker,,native-Chinese-speaking,Chinese,NA,,,native English speakers,British Caucasian,American,NA,"9.3% African American, 30.3% Asian American, 18.6% Hispanic, 39.5% Caucasian and 2.3% Other Ethnicity","6.3% African American, 14.5% Asian American, 18.8% Hispanic, 47.9% Caucasian and 12.5% Other Ethnicity",NA,NA,Chinese,"29% East Asian, 23% South Asian, 16% White, 8% Black, 5% Middle Eastern. An additional 21% reported themselves to be mixed race,",Danish,,French-speaker,Dutch,NA,NA,"86.5% Caucasian, 8.1% Hispanic and 5.4% Asian/Pacific Islander",NA,NA,NA, German speakers,American,native English speakers,native English speakers,,Korean,Korean,NA,NA,NA,Chinese ,NA,Chinese,NA,Chinese,Chinese,Chinese,Chinese,NA,Japanese,NA,Japanese,Chinese,Chinese,Chinese
+,,Age_mean,24.2,24,23.1,23,20.7,25.8,23.11,23.24,22.5,25.4,24,38.57,33.71,21.2,20.06,20,23.5,19.4,20.16,22.64,24,19.6,19.7,27,,22,20.8,20.8,24.3,31.16,29,22.95,26.5,33.84,26.1,20,20,24,NA,24,21.5,22.6,21.5,22.5,33.85,22.7,22.3,20.1,20.4,20.4,22.4,20.1,23.3,20.47,23.3,20.16,20.4,20.4
+,,Age_SD,NA,,NA,3.4,1.3,4.4,2.85,2.63,6,2.46,NA,5.27,13.09,NA,1.43,NA,4.9,1.32,2.27,2.69,3.5,1,NA,,,2,2.5,2.3,NA,5.78,NA,NA,5.51,7.13,NA,NA,NA,3,NA,NA,1.9,1.2,1.8,NA,12.65,1.9,2.35,1.4,NA,NA,1.6,1.3,4,0.97,2.7,1.5,NA,NA
+,,Age_min,19.4,21,NA,NA,18,NA,18,18,19,21,18,30,NA,19,NA,18,NA,NA,NA,20,NA,NA,18,20,,19,18,NA,19,20,NA,NA,21,NA,23,18,18,NA,NA,21,NA,20,NA,19,NA,19,19,18,18,18,19,NA,NA,NA,NA,18,18,18
+,,Age_max,31,27,NA,NA,23,17.9,28,28,41,31,31,50,NA,32,NA,30,NA,NA,NA,30,NA,NA,31,38,,26,27,NA,41,43,NA,NA,42,NA,31.7,24,31,NA,NA,29,NA,24,NA,24,NA,27,30,23,22,22,24,NA,NA,NA,NA,24,22,22
+,,Diagnosis,healthy,healthy,healthy,healthy,healthy,healthy,healthy,healthy,healthy,healthy,healthy,healthy,healthy,healthy,healthy,healthy,healthy,healthy,healthy,Healthy,healthy,Healthy,healthy,healthy,,healthy,healthy,healthy,healthy,healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy,Healthy
+,,Education,NA,graduate students,NA,NA,NA,NA,15.84,NA,NA,college,NA,,14.65,,,NA,undergraduate and postgraduate students and other,,,college student,NA,college,,,,students at the University,university students,NA,college students,GED to doctoral diploma,NA,NA,NA,13.33,graduate students,NA,NA,16,undergraduate students,college students,college student,NA,NA,undergraduate students,13.71,college students,NA,NA,undergraduate students,undergraduate students,University students,college students,NA,NA,NA,NA,undergraduate students,undergraduate students
+,Demographics_group2,Size,,13,,,,,17,15,14,,,,17,,,,,,,,27,20,,,,,,18,,,,,,,12,,,,,,,,,,,,,15,,,,,,,,,,
+,,Female,,7,,,,,11,11,8,,,,0,,,,,,,,12,10,,,,,,8,,,,,,,6,,,,,,,,,,,,,7,,,,,,,,,,
+,,Race/ethnicity,,NA,,,,,native English speaker,,native-Chinese-speaking,,,,,,,,,,,,NA,Chinese,,,,,,NA,,,,,,,NA,,,,,,,,,,,,,Chinese,,,,,,,,,,
+,,Age_mean,,24.23,,,,,71.71,71.6,23.6,,,,33.47,,,,,,,,67,19.5,,,,,,19.8,,,,,,,10.2,,,,,,,,,,,,,19.6,,,,,,,,,,
+,,Age_SD,,21,,,,,4.69,4.55,2.87,,,,11.29,,,,,,,,6,1.2,,,,,,1.8,,,,,,,NA,,,,,,,,,,,,,1.5,,,,,,,,,,
+,,Age_min,,27,,,,,61,61,21,,,,,,,,,,,,NA,NA,,,,,,NA,,,,,,,9.5,,,,,,,,,,,,,17,,,,,,,,,,
+,,Age_max,,NA,,,,,80,80,29,,,,,,,,,,,,NA,NA,,,,,,NA,,,,,,,10.8,,,,,,,,,,,,,22,,,,,,,,,,
+,,Diagnosis,,healthy,,,,,healthy,healthy,healthy,,,,healthy,,,,,,,,healthy,Healthy,,,,,,healthy,,,,,,,Healthy,,,,,,,,,,,,,Healthy,,,,,,,,,,
+,,Education,,NA,,,,,15.35,,,,,,14.29,,,,,,,,,,,,,,,NA,,,,,,,NA,,,,,,,,,,,,,NA,,,,,,,,,,
+,Demographics_group3,Size,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Race/ethnicity,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Age_mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Age_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Age_min,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Age_max,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Diagnosis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Education,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Recruitment,Channel,,university,university,NA,an advertisement on a Tufts University community website,University of Toronto community,"Harvard University,Massachusetts General Hospital","Harvard University,Massachusetts General Hospital",Peking University,Peking University,Local Dartmouth community,Charite´Universitatsmedizin,"via advertisements posted  at the RWTH Aachen University, Germany","Harvard University, Cambridge",Cardiff University,the local Dartmouth community,Novosibirsk State University,University of Texas,University of Texas,university,Cornell University,Peking University,,,,University of Liège,university of Groningen,NA,MIT community,via fliers and targeted advertising on social media as part of a larger study,University of California,Stanford University,NA,university,"via summer camps, posted flyers, and mass mailings; UCLA",NA,NA,University of Wisconsin—Madison campus,Seoul National University in South Korea,NA,University of Utrecht,NA,Yale University community,Southwest University,"Internet, a nearby orthopedic hospital, university campus",Chinese college students,Tsinghua University,Minzu University of China,Capital Normal University,Capital Normal University,Southwest University,Southwest University,NA,NA,NA,Southwest University,Capital Normal University,Capital Normal University
+,,Location,"London, UK",US,"Pennsylvania, US","Liège, Belgium","Massachusetts, US",,"Massachusetts, US","Massachusetts, US","Beijing, China","Beijing,China","New Hampshire, US","Berlin,Germany","Aachen, Germany","Massachusetts, US","Cardiff, UK","New Hampshire, US","Novosibirsk,Russia","Austin, USA","Austin, USA",Shanghai，China,"New York, USA","Beijing,China","Toronto, Canada","Copenhagen, Denmark",,"Liège, Belgium","Groningen, The Netherlands","Groningen, The Dutch","Massachusetts, USA","Oregon, US","California, US","California, US","Aachen, German","Aachen, Germany","California, US","Massachusetts, US","Massachusetts, US","Wisconsin,USA","Seoul, Korea","Seoul, Korea","Utrecht, the Netherlands","Leiden, Netherlands","Yale, US","Chongqing, China","Zurich, Switzerland","Beijing,China","Beijing, China","Beijing, China","Beijing, China","Beijing, China","Chongqing, China","Chongqing,China","Kyoto, Japan","Chongqing, China","Hiroshima, Japan","Chongqing, China","Beijing, China","Beijing, China"
+Self-Reference Effect,verbal,,"the processing subject  (i.e., the self) refers to itself(Benoit,2010).",NA,Symons and Johnson: better memory for words encoded with refer-ence to oneself than others,NA,NA,"words processed with reference to the self (some studies used nouns, not all of which had emotional valence) are generally better remembered than material processed in semantic terms(Symons&Johnson,1997)",NA,NA,NA,NA,NA,"self-referential processing, broadly defined by processing of information related to one's own person(Northoff et al. 2006)",NA,NA,NA,"
+No
+self is a unique cognitive structure that pos-sesses extraordinary or additional mnemonic abilities",NA,NA,NA,"Yes
+information processed with reference to the self is better remembered than information processed with reference to others",NA,NA,NA,NA,,"Powell:a general (context-independent) self-representation and a set of context-dependent selves that represent personal attributes in particular contexts (e.g., as a student, as a daughter",self-reflection produces a unique activation within the cortical midline(compared to other-reflection),NA,NA,NA,NA,NA,NA,"Yes
+Self-related information is processed rather deep and elaborate (‘self-reference effect’; Symons and Johnson, 1997).","No
+The capacity to appreciate oneself as a distinct, unified, and enduring entity with abstract qualities such as intelligence and agreeableness","Yes
+memory enhancement of self vs other in conceptual self-reference task","Yes
+1. memory performance for items that participants self-selected vs those randomly selected by the computer",NA,"Yes
+information relevant to the self is processed and stored in a more elaborate form than other types of information, individuals tend to remember the words that appear in the self condition better than words in the other or in the font condition. This phenomenon is called the self-reference effect (SRE).","Yes
+information relevant to the self is processed and stored in a more elaborate form than other types of information, individuals tend to remember the words that appear in the self condition better than words in the other or in the font condition. This phenomenon is called the self-reference effect (SRE).","Yes
+such as thinking about one’s preferences or personality traits",NA,No: The experience of having a self is inextricably linked to the understanding that self is distinct from “other.”,"Yes
+self referential processing yields superior memory compared with information encoded using semantic and other-referential encoding strategies , that is the SRE in the memory.",NA,NA,NA,NA,Self-reference effect is observed when the degree of self-reference of the to-be-remembered materials is varied.,Self-reference effect is observed when the degree of self-reference of the to-be-remembered materials is varied.,NA,NA,The self-reference effect (SRE) is defined as better recall or recognition performance when the memorized materials refer to the self.,"Yes
+a pervasive bias toward preferentially processing self-related information compared with other-related information","Yes
+material processed with reference to oneself is more readily remembered, which is called the self-reference effect",NA,Self-reference effect is observed when the degree of self-reference of the to-be-remembered materials is varied.,Self-reference effect is observed when the degree of self-reference of the to-be-remembered materials is varied.
+,operational,behave,"No
+more accurate performance in the self than in the other condition, which, in turn, yielded higher percent correct values than the syllables condition",No,"Yes
+behavioral self-reference effect: first-person statement is better than third-person statement in recognition memory",No,NA,NA,NA,NA,"No
+The recognition scores(i.e., the proportion of hits minus false alarms)were higher for the traits related to the self than to others","the results of memory test revealed a self-reference superiority effect in memory(Han,2010)","participants better remembered words that were
+  self-referenced than those described an intimate
+  other or a case judgment.",NA,NA,NA,"Yes 
+they are performed faster and memorized better than evaluations 
+that only involve others (Rogers, Kuiper, & Kirker, 1977).","No
+better memory performance (hit-false alarms, recognition reaction time)","Yes
+the effect of cultural values(self-reported independent,interdependent self-construal)",NA,NA,"Yes
+1.memory performance(hit rate)
+2.Self-reference task VS Other-reference task",NA,"Yes
+the memory performance of R- judgment",NA,"No
+retrieval of memory of personally experienced events (‘‘episodic memory’’) ",,"Yes
+Response times (RTs) for judgments",NA,NA,NA,NA,"No
+1. judgment (reaction time)","No
+1. reaction time(self, close similar speed)","No
+1. self-ascription of positive triats (higher number)","No
+1. memory performance(accuracy)
+2. self-ascription of positive traits(higher rate)",NA,"Yes
+1. memory performance(accuracy)","Yes
+1. memory performance(accuracy)","No
+1. encoding(response time)","Yes
+1. memory peformance(recognition socre)","Yes
+1. memory peformance(recognition socre)",NA,NA,"No
+1. encoding(response time)",intentional directed forgetting of self referential information vs that of other-referential information,NA,"Yes
+recognition priority in self vs other condition",NA,"Yes
+memory peformance(accuracy)","Yes
+memory peformance (accuracy)","Yes
+memory peformance (accuracy)","No
+Judgment(reaction time)",NA,"Yes
+Memory performance(accuracy)","Yes(self-prioritization effect)
+subtracting the self-probe’s RT from stranger-probe’s and extracted the mean β values of the above four WM regions","Yes
+memory performance(accuracy)",NA,"Yes
+memory peformance (accuracy)","Yes
+memory peformance (accuracy)"
+,,neuro,"Self >syllables,friend>syllables,self>friend, friend>self",self>mother,self>Obama,"self>close friend or relative, third person perspective>first person perspective","Self-Neutral>Fixation,Self-Positive>Fixation,Self-Negative>Fixation,Other-Neutral>Fixation,Other-Positive>Fixation,Other-Negative>Fixation",self>other,"self>Einstein,Einstein>self,Positive self-negative self","Elderly>Young, Self Remembered>Einstein Remembered",self>font-judgment,"self>font,self>Zhu Rongji,self>Sakyamuni,self>Jesus","self>friend, self>case,friend>self","Self-referential >social,social>self-referential,self-referential>non-self-referential","Self>Julia Roberts or Brad Pitt, Self>Lexical,Julia Roberts or Brad Pitt>Self,Lexical>Self,Julia Roberts or Brad Pitt>Lexical ","self>Bush,Bush>self",Self-other>familiar-other,self>Bush,Me>Friends>Stranger>Unpleasant,NA,Self>Unrelated other,"self>Bruce Lee((encoding, (SRR+SIR+SF - ORR - OIR - OF)) ,SRR>SIR ,other-relevant>other-irrelevant",partner and self>parent and friend,"1PP:self>font,self>friend,self>famous
+3PP:self>friend,self>famous,self>font",self>friend,"self>Queen,self>Control",,"Self General>Control,Self Specific>Control,",[self>semantic]>[other>semantic],"Self>Semantic,an acquaintance>Semantic,Self>an acquaintance,an acquaintance>Self,Self>Semantic,an acquaintance>Semantic, Self>an acquaintance,an acquaintance>Self,Self>Semantic,Positive Self>Semantic,Negative Self>Semantic","self>mother,Bush>mother","Self>Change,DS>DU","Self > Syllable, close>syllable, Positive > Syllable","Self>friend, self>other, friend>self, other>self","self>lex, (self_sad>happy)>(lex_sad>happy), (self_sad>neutral)>(lex_sad>neutral), (self_happy>sad)>(lex_happy>sad), (self_happy>neutral)>(lex_happy>neutral)","self-evaluation>lexical, positive self >lexical, positive self>positive other, Self-negative > self-positive","Self>rest, Harry Potter>rest, self>Harry Potter, Harry Potter>self","self>Bush,  Bush>self, self>computer, computer>self","self>computer, computer>self","Self>semantic, other>semantic, self>other",NA,Self_Personal + Self_Collective>Other_personal + Other_Collective; Self_Personal + Other_personal>Self_Collective + Other_Collective; Self_Collective + Other_Collective>Self_Personal + Other_personal ,"self>control, other>control, self>other",self>mother,(Self vs. Letter) ^ (Mother vs. Letter),"self>other, Self-reference_forget>Self-reference_remember, Luxun-reference_forget>Luxun-reference_remember","self>control, other>control","Self>Liu, Self>father, Self>best friend, Self>Font, Mother>Liu, Mother>Font, Father>Font, Friend>Font",self>Hu Jintao,"Self>other, mother>other, self>mother, mother>other","self>semantic, self>other",,"self>other, self>semantic","self evaluation> celebrity evaluation, self feedback>celebrity feedback ","Self>Naoto Kan, Self-correct>Naoto Kan -correct, Self-miss>other-miss, self-correct>other-correct",self-friend>friend-stranger,"self>semantic, other>semantic, self>other, other>self","Personal self-worth>control, Relational self-worth>control, Collective self-worth>control","self>semantic, self>other",
+,self,Terms_self,,self-construal,,,self-positivity bias,,,,,,,,Self-appraisal processes,self-reflection,Self-reflection,NA,NA,self-evaluation,self-evaluation,self-descriptiveness,NA,"self-reflection, self-concept, self-awareness","self-concept,self-reflection",self-representation,,"   self-referential, self-knowledge, self-concept","self-reflection,self- referential ","self-reflection,self-referential ","self-reflection,self-referential","self-evaluation,self-referential,   self-reflection ",self-knowledge,"self-knowledge, self-concept","self-evaluation, self-ascription, self-perception","Self-evaluation, self-perception",self-knowledge,conceptual knowledge of one's own traits,conceptual knowledge of one's own traits,"Metacognitive evaluation of oneself, self-relevance",self-representations,self-representations,NA,self-concept,self concept,NA,self-reflection,self-concept,dialectical self-thinking.,self-reflection,NA,NA,"Self-esteem, self-evaluation","self-esteem, self-evaluation",NA,self-bias,NA,NA,NA,NA
+,,Aspect_self,,,,,"positive self, negative self",,"positive self, negative self",,,,,,,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,,,two domains of self-concept: social and verbal–academic competence,,,,personal and social self,personal and social self,,"physical, academic and prosocial",,,,,,,,,,,,,,,,
+General,Task_info,Aim,"1.to tested the prediction that mrPFC might be involved in appraising the personality traits of another person to the degree that this person is perceived as similar to oneself. 
+2.to examined whether recruiting common processes for thinking about oneself and others might impact on subsequent memory for those judgments. ","
+to examine how acculturation period alters brain activity associated with self-referential cognition.","to test whether acting with a group will reduce spontaneous self-referential processing in the moral domain and, in turn, facilitate competitor harm.", to disentangle the neural correlates of self-referential processing and perspective taking,whether the mPFC would show effects of the self-positivity bias in a paradigm that probed participants’ self-concept without any requirement of explicit self-judgment,to identify the brain regions mediating interactions between self-related processing and emotional processing,to explore whether medial prefrontal cortex could be engaged similarly by both young and elderly adults under appropriate task demands,"1.to explore age differences in the memory encoding network as a function of the social and self-relevant nature of stimuli
+2.to assess the degree to which the specificity of the mPFC response to social information was intact with age.",to assess whether this religious belief is associated with neural correlates of self-referential processing distinct from that of non-religious people.,1.to investigated neural consequences of Buddhist belief and practice on self-referential processing.,use event-related fMRI to examine the extent to which MPFC activity differentiates self from close others.,to explores the functional overlap and dissociability of self-referential and social stimulus processing.,investigating the neural correlates during attribution of gender stereotypes to oneself or to a prototypical female and male actor,to examined the extent to which these different forms of self-reflection are subserved by common mechanisms.,investigate whether self-other comparisons rely on the activity of these self-relevant structures instead of frontoparietal regions,to investigate potential neural substrates of self-referential processing,to directly compare DMN vs. TPN connectivity during self- and other-appraisal in the trait adjective judgment task for different others varying in the degree of their closeness to the self,to examine whether MPFC modulation that distinguishes self-evaluation from evaluation of a non-close other relates to (a) memory effects presumed to reflect deeper encoding and/or (b) socioemotional association (disentangled from previous knowledge),"to examine whether MPFC (1) indexes socioemotional association in relation to repetition suppression, target effects, trait relevance, and MVPA and (2) is parametrically modulated by perceived similarity","to examine the neural correlates of self-descriptiveness and self-reference effect in
+ memory",to examine the neural representations of mentalizing about known others in young and older adults across a continuum of social closeness,to investigate the behavioral and neural activity differences between 1PP and 3PP when Buddhists considered themselves,to gain insight into the mechanisms involved in processing these different aspects of the self and the other,to determine whether medial parietal cortex in this network is essential forepisodic memory retrieval with self-representation,,"to invesitage this (context-independent/context-dependent self-representation)
+issue by examining the neural correlates of both kinds of self-knowledge","1) to clarify whether insula activity would be intrinsically involved in self-reflection, and 2) to replicate and expand current understanding of the neural network underlying self-reflection using an fMRI task previously associated with robust activity in midline structures",to examine investigate brain activation associated with self-reflection in individuals with high as compared to individuals with low positive-dimension PP,to examine whether differences between self and others are related to differences in knowledge about character and appearance,to examine the behavioral and neural correlates of parenting self-evaluation,"to examine the common and distinct neural bases of direct appraisals of the self, close others, and normative judgments of trait desirability","1. to compare direct appraisals of the self with a close other and a non-close other to see how activation varies with relationship intimac
+2. to examine the common and distinct neural bases of (1) direct appraisals of self, a close other or a non-close other, and (2) reflected appraisals made from the perspective of a close or a non-close other",to examine the influence of mood on self-evaluation,to explore the cerebral correlates of positive self-evaluation and its influence on memory,"1. to identify the neural correlates of self- and social knowledge retrieval in children
+2. to directly compare the systems involved in these processes in children and adults",to investigate whether the cognitive processes of agentic self(being an agent who acts to achieve oneʼs own goals) and conceptual self(knowledge of one's traits) overlap ,to investigate whether the cognitive processes of agentic self(being an agent who acts to achieve oneʼs own goals) and conceptual self(knowledge of one's traits) overlap ,to compared metacognitive evaluation associated with two referentially discrete targets: oneself and a significant other,to confirm the existence of the SRE for both personality traits and social identities,"to assess self-referential brain activities, using fMRI",to investigate changes in coupling between areas of the DMN during self-referential processing,to investigate whether evaluating self- and mother-traits in three domains relies on similar or distinct brain regions,to compare BOLD signal changes during self and mother conditions of a self-reference effect (SRE) task,to investigate how emotion and self-referential processing influence directed forgetting,to investigate neural processes when people reflect on oneself and others in relationships ,"to test the hypothesis that close others such as mother, father and best friend are differentially represented in collectivistic (i.e. Chinese) brains in relation to the self.",to test whether chronic dialectical thinkers would be more likely to utilize the dACC,to investigate the significant role of religion on the functional anatomy of self-representation,"to investigate Chinese culture’s influence on the concept of self, in which the self includes mother","to investigate Chinese culture’s influence on the concept of self, in which the self includes mother",to investigate neural mechanism underlying the association between levels of self-esteem and processing of self-relevant information.,to examine whether and how neural activity related to self–evaluation and social feedback can be related to one’s trait self–esteem and whether and how trait self–esteem can be associated with the neural activity related to both task and attitude,to investigate brain activities during the processing of referential information relating to either the self or a distant other,to elucidate the neural mechanisms underlying this self-bias,to investigate neural activity associated with self-referential processing of emotional stimuli,"to identify neurological indicators in the processing of personal, relational, and collective self-worth and to investigate whether these neural indicators could reflect individual differences of self-esteem","to investigate Chinese culture’s influence on the concept of self, in which the self includes mother","to investigate Chinese culture’s influence on the concept of self, in which the self includes mother"
+,,Task_sequence,"1.judge(“sure yes”,“unsure yes”, “unsure no”, “sure no”) how well the personality traits applied to the evaluated condition(self, other, syllables)
+2.judge(“sure yes”,“unsure yes”, “unsure no”, “sure no”)whether the word are same to the corresponding test phase in study phase","1. Time1 (within two months of their arrival in US): judge(yes, no) whether the traits applied to the evaluated condition(self, mother,font)
+2. complete the Self Construal Scale (Singelis, 1994), which measures two dimensions of self-construal styles: independence and interdependence
+3. Time2 (six months after the initial scan): judge(yes,no) whether the traits applied to the evaluated condition(self, mother, font)
+4. complete the Self Construal Scale again","Day1(two weeks prior to scanning):
+complete personality questionnaire, team assignment&ID, sentences pre-test online
+
+Day2:
+1.before scanning:recall team, show network
+2.in scanner: alone:go/no-go Task, video:group login, with group: go/no-go Task, self-reference localizer task
+3.after scanning:assess harm, surprise recognition","1.judge (1 = not at all,2= a little,3= quite well,4= completely) how well the trait adjectives applied to the evaluated condition(1P_Self, 1P_Other, 3P_Self, 3P_Other)  
+
+(1P_Self:‘Are you sociable?, 1P_Other:Is Caroline sociable, 3P_Self: According to Caroline, are you sociable, 3P_Other: According to Caroline, is  she sociable?)","1.read two-sentence scenarios
+2.anwser random comprehension questions
+3.judge(yes,no)whether the traits applied to the evaluated condition(self, other)","1.judge(yes,no) whether traits applied to the evaluated condition(self-referential, other-referential, letter-recognition) 
+2.discriminate between studied (old) words and unstudied (new) words","1.judge(yes,no) whether the adjective applied to the evaluated condition(Self, Albert Einstein, case) 
+2.judge(yes,no)whether adjectives are studied previously","1.judge(yes,no)whether the adjective applied to the evaluated condition(Self, Albert Einstein, case) 
+2.judge(yes,no)whether adjectives are studied previously","1.judge(yes,no) whether adjectives applied to the evaluated condition(Self,Jesus, Sakyamuni, Zhu-Rongji,Font) 
+2.evaluate the word as old or new
+3.rate(0-no influence, 6-very strong influence) how the factors influenced his/her judgments of the personality of the self or of others: one’s behavior;friends’ evaluation; one’s relationship with others;and Jesus’ evaluation.","1.Judge(yes,no) whether the normed personality traits applied to the evaluated condition(Self, Jesus, Sakyamuni, Famous(Zhu-Rongji), Font),
+2.evaluate the word as old or new, 
+if identified the word as new,it disappeared after response,
+if  identified the word as old,participants were further asked to make an R/K judgment by indicating whether ‘remembering’ (R) the item or simply ‘knowing’ (K) the item","1.judge (yes,no) whether the traits applied to the evaluated condition(self, friend,case)
+2.evaluate the word as old or new
+ ","1.viewe a subset of 80 pictures 24 ± 4 h prior to scanning
+2.passive view pictures
+3.answer(yes,no) questions regarding to self-referentiality(does this picture personally relate to you?’) 
+4.answer(yes,no) questions regarding to episodic memory retrieval(Is this picture familiar to you?)","judge(yes,no) whether personality traits applied to self, typical male celebrity,typical female celebrity, lexical control condition","1.judge(1 = not at all , 4 = very)how well the adjectives described either themselves or then-current US President, George W. Bush in three kinds of traits[(i) stable personality (e.g., In general, how brave?); (ii)  current mental states (e.g., In the moment, how  bored?); and (iii) stable physical attributes (e.g.,  Physically, how tall?]","1.online questionnaire:list the names of 10 familiar women,rate attractiveness of them and self(1-7), few days before fMRI session
+2 judge(left,right) more attractive faces(themselves,other)or(familiar other,other) 
+3.rate the attractiveness of the 240 faces on the same 100-point (ranging  from very unattractive to very attractive)","1. judge(yes,no) whether the normedpersonality traits applied to the evaluated condition(Self, Bush, Case)
+2.judge if the word appears in the first stage","1.judge(yes,no)whether trait adjectives describe themselves,the best friend,a neutral stranger,and an unpleasant person
+2.rate the selected persons on emotional valence scale ranging(-5~+5)","1. judge(yes,no) whether personality traits applied to themselves, the minimally-related other, or the unrelated other
+2.complete a surprise memory test consisting of 600 trait words(old,new)","1.evaluate the same characteristics of themselves and minimally related other or the unrelated other(1-4 rating)(self trials:witty,minimally related other:kind, unrelated other:sweet)
+2.complete self-evaluations of traits","1.judge(yes,no)traits describe self or Bruce Lee
+2.indicate whether the adjectives was old on a 6-point scale","1.trait judgment task to assess mentalizing by asking participants,scale responses corresponded to 1 (unlike this person) to 3 (very much like this person)(mentalizing:provided one name per social closeness condition, then provided the length of their rela- tionship with those individuals )","1. judge(yes,no) based on the 1PP or 3PP condition to self, a friend,and someone famous;font
+2. evaluate whether  these words are“old” or “new” ","
+1. rating (valence, the degree to which they had thought about having the trait or role described by the stimulus)
+2. make judgments about themselves and a close other regarding the target’s traits,roles and group memberships","1.judge（1-6 rating）whether well the traits applied to the evaluated condition(Self, Best friend and Danish Queen) 
+2.recall whether each adjective had initially been characterized as fitting the person or not
+3.control scan: indicate whether the number of syllables was even",,"1.identify someonethey personally know well (a close friend) and whom they see at the university
+2.judge whether the extent to which trait described their own personality or a close friend, either in a specific context(i.e., as a student) or in general
+3.post-scan judgement
+4.two other kinds of judgments :rated the difficulty(1-4),indicate whether some specific events(1-4)","1.judge(yes, no) whether short sentences was true about self, other(acquaintance like classmate or teammate), semantic","1.judge(yes, no) personality trait sentencess （under self reference conditions）
+2.judge (yes, no) whether every word of their chosen acquaintance is true (under other reference conditions)
+3.determining whether a sentence is correct in terms of general knowledge (under semantic conditions)","1.judge (yes, no) whether 180 words (90 appearances/90 characters) describe me, mom, President Bush",1.evaluate whether these words described them as a parent (Self) or whether they believe these qualities can change for parents in general (Change),"1. judge whether(yes, no) the personality trait applies to the evaluated condition (self, a close other, positive/contain two syllables)","1. judge how well (1-4) the personality trait applies to the evaluated condition (self, a close other or a non-close other) in directed (self) and reflected perspective (close other, non-close other)","1. complete the Positive and Negative Affect Schedule
+2. judge (0-5 scale) how well the traits applied to the evaluated condition(self, lexical) when listening to emotion-inducing music(sad, happy, neutral)
+3. complete Self-Assessment-Manikin rating to assess mood","1. judge(yes, no) whether the traits applied to the evaluated condition(self, intimate other, lexical)
+2. evaluate the word as old or new
+3. indicate which person in the ‘other’ condition and evaluated this person (negative/positive, -4-4)","1. judge(yes,no) whether the phrase described oneself or Harry Potter by listening to the materials","1. you/computer turn over cards indicating traits by self or computer (agentic self-reference task)
+2. judge how well (1-4)  the traits applied to the evaluated condition(Self, other)
+3. evaluate traits as old/new","1. you/computer turn over cards indicating traits by self or computer (agentic self-reference task)
+2. evaluate traits as old/new(1-3)
+[3. judge how well (1-4)  the traits applied to the evaluated condition(Self, other), only 15 take part]","1. judge(yes,no) whether traits apply across three condition (self, other, semantic)","1. judge how well the traits applied to the evaluated condition(Self, Ju-yung Chung, font)
+2. complete 10-min distraction task
+3. evaluate the word as old or new
+4. measure cultural orientation through INDCOL scale","1. judge how well the traits applied to the evaluated condition(Self, Ju-yung Chung, font)
+2. complete 12-min distraction task
+3. evaluate the word as old or new
+4. measure cultural orientation through INDCOL scale"," judge(yes, no) whether the traits applied to the evaluated condition(self, other, social desirable)","
+1. judge(1-4) how well a statement(physical, academic, prosocial) applied to the evaluated condition(Self, Mother)  
+2. rate importance and valence of traits","1. complete the SAT task: prompt question-watch movie-answer questions (only 17 participants)
+2. judge (choose one of two adjectives) which traits applied to the evaluated condition(self, mother, letter) ","1. judge(yes, no) whether the traits applied to the evaluated condition(Self, Luxun);
+remember/forget the trait after judging it
+2. evaluate the word as old or new","1. complete the mini-DIPS interview; 
+2. complete the MIPQS: rate 32 items describing interpersonal behavior as relevant for them or not
+3. develop narratives concerning their most relevant interpersonal behavior patterns
+4. recall relationship episodes involving self, others, control when IRPS images are presented
+2. rate arousal and valence (1-9) of their feelings","1. judge(yes,no) whether a trait describe self,mother,father,friend,Liu, font
+2. evaluate the word as old or new
+3. complete scales measuring collectivity ","1. judge(yes, no) whether the left trait in word pairs applied to the evaluated condition(Self, Hu Jintao) 
+2. complete DSS, a scale measuring dispositional naïve dialecticism","1. judge(yes,no) whether the traits applied to the evaluated condition(self, an intimate-other (i.e. mother) public figure)
+2. evaluate the word as old or new","judge (yes,no)whether a trait applied to the conditions (self, other/ LuXun,a word as“negative”or ""positive"")","judge (yes,no)whether a trait applied to the conditions (self, other/ LuXun,a word as“negative”or ""positive"")","1. complete the self-esteem evaluation (RSE)
+2. judge(yes,no) whether sentencess from Coopersmith Self-Esteem Inventory apply across three conditions (self, other/their brothers,semantic)","1. complete self-esteem evaluation(RSE)
+2. evaluate the traits of classmates and celebrity to create a context of social feedback for scanning
+3. judge(1-4) how well a trait describes self or celebrity;","1. judge how well the traits applied to the evaluated condition(Self, Naoto Kan) 
+2. evaluate the word as old or new","1. associative learning: form associations between three colors and three persons(self, friend, stranger)
+2. working memory training: match color and label
+3. working memory task: 1) remember the locations and social labels of color cues, 2) judge whether location of new black circules matches before","1. judge whether(yes, no) traits applied to the evaluated condition(self, other, semantic, letter)
+2. evaluate the word as old/new","1. judge(1-4) how well statements apply to evaluated conditions (personal, relational, collective self-worth, semantic/general knowledge)","1. judge (yes,no)whether a trait applied to the conditions (self, other/ LuXun,a word as“negative”or ""positive"")","judge (yes,no)whether a trait applied to the conditions (self, other/ LuXun,a word as“negative”or ""positive"")"
+,,Task_sequence_standardized,"1.encoding: trait judgment [in scanner]
+2.retrieval:recognition(old, new, 1-4)[in scanner]",encoding: trait judgment [in scanner],"1. encoding: trait judgment [in scanner]
+2. retrieval:  surprise recognition memory task: judgment for 80 moral behavior sentences (old, new) [out of scanner]",encoding: trait judgment [in scanner],1.encoding:traits judgment [in scanner],"1.encoding: trait judgment [in scanner]
+2.retrieval: recognition(old,new) [out of scanner]
+","1.encoding, trait judgment [in scanner] 
+2.retrieval, recognition(old, new) [out of scanner ]","1.encoding, trait judgment [in scanner] 
+ 2.retrieval, recognition(old, new) [out of scanner ]","1.encoding: trait judgment [in scanner] 
+2.retrieval: recognition (old, new) [out of scanner]","1.encoding: trait judgment [in scanner]
+2.retrieval: recognition(old,new),R/K judgment, [out of scanner]","1.encoding: trait judgment [in scanner]
+2.retrieval: recognition (old, new) [out of scanner]
+","1.viewe a subset of 80 pictures 24 ± 4 h[out of scanner] 
+2.encoding:answer(yes,no) questions regarding to self-referentiality and episodic memory retrieval [in scanner]",1.encoding:trait judgment[in scanner],"1.encoding, trait judgment [in scanner] ","1.online questionnaire
+2.encoding:attractiveness comparison [in scanner]","1.encoding:trait judgment) [in scanner]
+2.retrieval:recognition(old, new) [out of scanner]",1.encoding:trait judgment[in scanner],1.encoding:trait judgment[in scanner],1.encoding:trait judgment[in scanner],"1.encoding:trait judgment, self or Bruce Lee [in scanner]
+2.retrieval:judge old or new [out of scanner]","
+1.encoding:trait judgment task [in scanner]","1.encoding: trait judgment [in scanner]
+2.retrieval: recognition(old, new) [out of scanner]","1. encoding (trait, role, group )[in scanner]",1. encoding: trait judgment [in scanner],,"1.encoding: trait judgment [in scanner]
+2.rating(difficulty(1-4) and some specific events(1-4))[out of scanner]","1. choose an acquaintance [in scanner]
+2.encoding:trait judgment [in scanner]","1. encoding:trait judgment(self, acquaintance, other)[in scanner](to examine whether differences in self-reflective processing are associated with psychosis proneness)","1.encoding:trait judgment[in scanner]( (1) self-reflection about character vs appearance traits, and (2) reflection about self vs a close/personally known / a distant, personally unknown other person)",1.encoding:trait judgment[in scanner],1. encoding: trait judgment [in scanner],1. encoding: trait judgment [in scanner],1. encoding: trait judgment [in scanner],"1. encoding: trait judgment [in scanner]
+2. retrieval: recognition (old, new) [out of scanner]","1. encoding: phrase judgment, auditory [in scanner]","1. encoding: trait memorization [in scanner]
+2. encoding: trait judgment [in scanner]
+3. retrieval: recognition (old, new) [out of scanner]","
+
+1. encoding: trait memorization [in scanner]
+2. retrieval: recognition (old, new with high/low confidence, 1-4) [in scanner]",1. encoding: trait judgment [in scanner],"1. encoding: trait judgment [out of scanner]
+2. distractor [out of scanner]
+3. retrieval: recognition (old, new) [out of scanner]","1. encoding: trait judgment [in scanner]
+2. distractor [out of scanner]
+3. retrieval: recognition (old, new) [out of scanner]",encoding: trait judgment [in scanner],"1. encoding: trait judgment (self, mother task) [in scanner]
+2. rating: importance of trait [out of scanner]
+3. rating: valence of trait [out of scanner]",1.encoding (trait judgment)[in scanner],"1. encoding: trait judgment in remember or forget condition [in scanner]
+2. retrieval: recognition (old, new) [out of scanner]","1. encoding: recall relationship episodes involving self, others) [in scanner]
+after each item, rating: rousal and valence of their feelings [in scanner]","1. encoding: trait judgment [in scanner]
+2. retrieval: recognition (old, new) [out of scanner]","
+1. encoding: trait judgment [in scanner]","1. encoding: trait judgment [in scanner]
+2. retrieval: recognition (old, new) [out of scanner]","1.encoding: trait judgment [in scanner]
+2.retrieval: recognition(old,new),R/K judgment, [out of scanner]","1.encoding: trait judgment [in scanner]
+2.retrieval: recognition(old,new),R/K judgment, [out of scanner]",1. encoding: trait judgment [in scanner],"1. evaluation: trait [out of scanner]
+2. encoding: trait judgment [in scanner]","1. encoding: trait judgment [in scanner]
+2. retrieval: recognition (old, new) [in scanner]","1. associative learning: form associations between three colors and three persons(self, friend, stranger)
+2. working memory training: match color and label
+3. working memory task: 1) remember the locations and social labels of color cues, 2) judge whether location of new black circules matches before","1. encoding: trait judgment [in scanner]
+2. retrieval: recognition (old, new) [out of scanner]",1.encoding:trait judgment[in scanner],"1.encoding: trait judgment [in scanner]
+2.retrieval: recognition(old,new),R/K judgment, [out of scanner]","1.encoding: trait judgment [in scanner]
+2.retrieval: recognition(old,new),R/K judgment, [out of scanner]"
+,,Deviation,no,Yes,yes,yes,yes,no,no,no,no,no,no,yes,yes,Yes,Yes,no,yes,no,yes,no,yes,no,yes,no,,Yes,yes,Yes,yes,yes,yes,yes,Yes,no,yes,yes,yes,Yes,no,no,yes,yes,Yes,yes,yes,no,yes,no,no,no,yes,yes,no,yes,No,yes,no,no
+,,Other_task/scale,,"Self Construal Scale (SCS; Singelis, 1994)",,,Valence and arousal ratings rated by online participants who did not participate in the MRI study.,"Self-Construal Scale (SCS; Singelis, 1994), socioeconomic status ladder (Kilpatrick and Cantril, 1960), Inclusion of Other in the Self (IOS) scale (Aron et al., 1992)","Mini-Mental State Examination (MMSE; Folstein, Folstein, & McHugh, 1975)","Mini-Mental State Examination (MMSE; Folstein, Folstein, & McHugh, 1975)",page6.influence rating about: one’s behavior; friends’ evaluation; one’s relationship with others; and Jesus’ evaluation(0-6),,,,Bem Sex-Role Inventory (BSRI),,,,,Affect MisattributionProcedure (AMP),,NA,"Mini-Mental State Exam (MMSE; Folstein et al., 1975); Geriatric Depression Scale;self-report measure of attachment (WHOTO; Hazan et al., 1991;Fraley and Davis, 1997);Inclusion of Other in Self (IOS) scale (Aron et al., 1992)",,,"rated adjectives as to how well they applied to themselves, or, in separate series, their best friend or the Danish Queen,The rating was done on a six-point scale to ensure adequate encoding",,"two ratings:first, they rated the difficulty they had to make the descriptiveness judgment during the scanning session (1 = “very easy”, 2= “quite easy”, 3= “quite difficult”,4 = “very difficult”); second, they were asked to indicate whether some specific events came to mind when they made their judgment during the scanning session (1 = “no specific event”,2= “one specific event”,3 = “several specific events”, 4= “a lot of specific events”)",,"Community Assessment of Psychic Experiences questionnaire (CAPE; Stefanis et al., 2002); Psychosis Proneness Questionnaire(Stefanis et al., 2002)",,"Parenting Stress Index, Third Edition Short Form (PSI-3-SF; Abidin, 1995),Parenting Sense of Competence Scale (PSOC; Johnston and Mash, 1989),Positive and Negative Affect Schedule (PANAS; Watson et al., 1988), Adverse Childhood Experiences Scale (ACES; Felitti et al., 1998)",,,"Multidimensional self-worth scale (Schütz and Sellin, 2006),
+  Positive and Negative Affect Schedule (PANAS, Watson, 1988), 
+ Self-Assessment-Manikin (SAM-)rating (Lang, 1980)","Mehrfachwahl-Wortschatz-Intelligenztest Version B,trail making test (Reitan, 1958), Penn Emotion 
+  Recognition Test (Kohler et al., 2004),Verbal Learn and Memory Test Version A (Helmstaedter et al., 2001),",,"Agentic Self-reference Task:(1)a cue (“YOU” or “COMPUTER”)(1s) (2)four numbered cards(2s) (3)word(2s) trials were intermixed in a pseudorandom order and separated by a variable interstimulus interval (2–10 s)
+ Agentic Self-reference Task:self trials( pressing one of four response buttons),other trials(a fifth button )
+ Agentic Self-reference Task:52 self,52 other","Agentic Self-reference Task:(1)a cue (“YOU” or “COMPUTER”)(1s) (2)four numbered cards(2s) (3)word(2s) trials were intermixed in a pseudorandom order and separated by a variable interstimulus interval (2–10 s) Agentic Self-reference Task:104 self,104other",,INDCOL scales,INDCOL scales,NA,"Rating,Importance[1 (it’s very important to me not to have this trait) to 5 (it’s very important to me to have this trait)] and Valence[0/1,positive/ negative]","Social Attribution Task (Schultz et al., 2003)",,"Mini-DIPS,MIPQS and IRPS,Self-Assessment-Manikin","Individualism and Collectivism Attitude Scale(Triandis, 1995),Chinese Interpersonal Relationship Affective subscale","Dialectical Self Scale(DSS,Spencer Rodgers et al., 2004)",,,,Rosenberg self-esteem scale (RSE),Rosenberg self-esteem scale (RSE),,"1.associative learning procedure(form associations between three colors and three persons;self/friend/stranger);
+  2.WM task training( a color label matching task,indicate whether the color label pairing matched with the instructed association,master the color label associations.)",NA,,,
+,Desgin_info,Synchronic_design,within,mixed,within,within,Within,within,mixed,mixed,mixed,within,Within,within,mixed,within,within,within,within,within,within,within,within,mixed,Within,within,,Within,within,mixed,within,mixed,Within,Within,Within,within,mixed,within,within,within,within,within,within,Within,Within,within,within,within,Within,mixed,within,within,Within,within,within,within,within,within,within,within
+,,Diachroni_design,cross-sectional,longitudinal,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional,cross-sectional
+,Variable_info,IV1,"Reference: Self, other, Syllables","Reference: self, mother, font","Reference: self, other","Reference: self,other",Reference: self-relevant or non-self-relevant,"Reference: self, other, letter","Reference: self, other, case","Reference: self, other, case","Reference: Self, Jesus, Sakyamuni, other/Zhu-Rongji, Font","Reference: Self, Jesus, Sakyamuni, Famous(Zhu-Rongji), Font","Reference: Self, friend, case","Reference: self(se+),non-self(se-)","Attribute (male, female)","Reference: self,other",Reference: self-other vs familiar-other,"Reference:self, other/president Bush, case)","Reference: self,friend,neutral stranger,unpleasant person","Reference: Self,Minimally-Related Other condition,Unrelated Other condition","Reference: self,minimally-related other,other","Reference: self,other","Reference: self, partner, parent (for young adults) or child (for older adults),close friend, familiar acquaintance, famous person","Reference: self, friend, famous, font","Reference: self, a close other","Reference: Self,Best Friend,and the Danish Queen, Syllable",,"Reference: self, a close other","Reference:  self, other, semantic","Reference:self, other, sematic","Reference: Self, Mom, Bush","Reference: self, change","reference: self, a close other,Positive,Syllable","reference: self, friend or a non-close other","reference: self, lexical","reference: self,other,lexical","reference: self, Harry Potter","reference: (agentic) self, other","reference: (agentic) self, other","reference: self-evaluation (SE), other-evaluation (OE),semantic positivity-evaluation (SPE)","reference: self, other, font","reference: self, other, font","reference: self, other, control","reference: self, mother","reference: Self, Mother, Letter","reference: self, other","reference: self, other, control","reference: self, mother, father, best friend, Liu-Xiang, Font","reference: self,other/Hu Jintao","reference: self,mother,other, font","reference: self, other, semantic","reference: self, mother, semantic","reference: self, other, semantic","reference: self, celebrity","reference: self, other/Naoto Kan","reference: self-match, friend-match, stranger-match","reference: self, other, semantic, letter","reference: personal, relational, and collective self-worth, semantic","reference: self, other, semantic","reference: self, mother, semantic"
+,,IV2,"old/same, old/different, new","Group: More-Eastern,Less-Eastern","communication, moral","
+perspective: 1P, 3P","valence: positive, negative, neutral","valence: positive, negative, neutral","group: young, elderly","group: young, elderly","group: Non-religious, Christians",,,"social(so+),non-social(so-)","Reference: self, typical other man, typical other woman, and lexical","personality traits, mental states, and physical attributes","direction: upward, downward",,,,"Evaluation: prime,paired self-evaluation","relevant,irrelevant",,"1PP, 3PP","traits, social roles, and group memberships",,,"Context(specific, general)",,"Group:low PP, high PP","character, appearence","developmentally supportive, developmentally unsupportive",,"perspective: Direct, reflected, normative","mood: Happy, neutral, sad","valence: positive,negative","group: children, adults","reference: (conceptual) self, other","reference: (conceptual) self, other",,"word types: personal, social","word types: personal, social",,"stimulus: physical, academic, prosocial","context: physical, social (only 17)","response: remember, forget",,,"non-contradictory, contradictory","group: Han, Tibetan",,,,"valence: positive,negative",,,"valence: positive, negative",,,
+,,IV3,,,"context(group, alone)",,,,,,,,,,,,distance: high vs low distance,,,,,,,,,,,,,NA,,"primiparous, multiparous",,,,,,,,,,,,,NA,,,,,,,,,"feedback: evaluation,social feedback",,,NA,,,
+,,IV1_description,"self: 
+other:best friend of the same sex,thinking about how long they already knew that person
+syllables: judge the number of syllables of the trait words ","1. self:
+2. mother: participant's mother
+3. font: defined, word printed in bold-faced letters","1.self
+2.other:Obama","1.self
+2.other:a close friend or relative","1.self
+2.other:scenarios' roles","1.self
+2.other: traits are socially desirable?
+3.letter:contain specific letter?","1.self
+2.other:Albert Einstein
+3.case:presented in upper case?","1.self
+2.other:Albert Einstein
+3.case:presented in upper case? ","1. Self, Jesus, Sakyamuni, other/Zhu-Rongji
+2. Font: hether the word presented written in bold-faced characters","1. Self
+2. Jesus
+3. Sakyamuni
+4.  Famous(Zhu-Rongji)
+5. Font:written in bold faced character?","1.self
+2.friend:undefined
+3.case: printed in uppercase letters?","1.self:Does this picture personally relate to you?
+2.non-self:Is this picture familiar to you?","1.self
+2.typical male celebrity: Brad Pitt 
+3.typical female celebrity:Julia Roberts
+4.lexical control condition:contained the letter “r” or not","1.self
+2.Bush:the current head of state (a familiar, but not personally known","1.self-other
+2.familiar-other: close to their own age (± 5 years) and with whom they were in regular contact at the time of the study","1. other/president Bush: defined,Bush
+2. case: defined,uppercase or not","1. friend:undefined,a current closest friend or close relative
+2. a neutral stranger:undefined,apparent acquaintance with the participant and no personal relationship
+3. an unpleasant person:undefined,people the participants don't like or have a bad relationship with","1.Minimally-Related Other condition:defined, shared participants' group color 
+2.Unrelated Other condition:defined,did not share participants' group color","1.Minimally-related Other:defined,""How Kind is this person?""
+2.Other: defined,""How Sweet is this person?""","
+1.other: defined,a description of the celebrity ""Bruce Lee""","1.partner:undefined
+2.parent (for young adults) or child (for older adults):undefined
+3.close friend:undefined
+4.familiar acquaintance:undefined
+5.famous person:undefined","1. friend:undefined
+2. famous:defined;Gen ga, a famous Buddhist singer
+3. font:defined,bold or light-faced characters ","
+1. a close other:undefined
+2. traits:defined,relatively stable aspects of a person
+3. social roles:defined, specialized actions that individuals take on in the context of a group
+4. group memberships:defined,included various demographic groups (ethnicity and gender), subcultural stereotypes (e.g.,""nerd"", ""hipster""), as well as divisions specifific to the University of Toronto undergraduate population (e.g., ""humanities majors"", ""commuter students"")","
+1. best Friend: defined,use personality trait adjectives for rating（six-point scale ）
+2. the Danish Queen:defined,use personality trait adjectives for rating（six-point scale)
+3. Syllable: defined, whether the number of syllables was even",,"
+1.a close other: defined,someone they personally know well and whom they see at the university
+2.context:defined,four descriptiveness judgment conditions(Self Specific,Self General,Other General,Other Specific)","
+1.other:defined, ""OTHER is a generous person"", ""OTHER is not very attractive"", ""OTHER often talks too much""
+2.semantic:defined,""You need water to live"", ""A vertebra is a bone"", ""A hand has 8 fingers"", ""Spring comes after Autumn""","
+1.other:defined,other-referential processing (“OTHER is friendly”) 
+2.sematic:defined,general semantic process- ing (used as baseline, control task) ","
+1.Mom:defined,evaluation of the mother's character
+2.Bush:defined,an assessment of Bush's character","
+1.change:defined,Whether or not you believe that trait words can change for parents
+","1. a close other: identified before the experiment began
+2. positive: whether it's a positive personality trait;
+3. syllable: whether the word contain two syllables","1. friend: identified before the experiment began
+2. a non-close other: George Bush","1. lexical: defined, how many 'e' each word comprised ","1. other: this is indicated after recognition test
+2. lexical: defined, whether the word contains letter 'r'",1. Harry Potter ,"1. other: (agentic) computer choose cards
+2. other: (conceptual) Bush","1. other: (agentic) computer choose cards
+2. other: (conceptual) Bush","1. other: a close friend or relative
+2. semantic: whether adjectives in the set were of positive valence","1. Ju-yung Chung: a famous Korean entrepreneur
+2. font: font was boldface or not ",,"1. control/other: Dutch prime-minister
+2. social: whether it's socially desirable",1. mother: undefined,"1. Mother: 
+2. Letter: choose the word that contained the letter “a”","1. self
+2. other: Luxun",1. other: a significant other,"1. mother/father
+2. font: bold/light faced",1. other: Hu Jintao,"1. mother
+2. other: Lu Xun, a famous Chinese writer, for Han; or Don-grub-rgyal, a famous Tibetan writer and poet, for Tibetan
+3. font: bold- or light-faced characters","1. other: Luxun
+2. semantic: judged a word as positive or negative","1. mother: undefined
+2. semantic: judged a word as positive or negative","1. other: an acquaintance
+2. semantic: general world knowledge",1. celebrity: Liu Xiang,1. Naoto Kan: previous Japanese Prime Minister,"1. friend: undefined
+2. stranger: undefined","1. other: Prime Minister of Japan, Jun-ichiro Koizumi
+2. semantic: whether or not it was difficult to define each trait word
+3. letter: whether or not each trait word contained a specific target letter","1. personal self-worth: the sentences from the Rosenberg Self-Esteem Scale
+2. relational self-worth: items  from the Relational SelfEsteem Scale, which measures people's self-esteem in their relationships with significant others (Du et  al.,  2012)
+3. collective self-worth: from the Collective Self-Esteem Scale, which measures people's self-esteem in general social groups (Luhtanen & Crocker,  1992)
+4. semantic control: general knowledge, such as “Reading is a good habit.”","1. other: Luxun
+2. semantic: judged a word as positive or negative","1. mother
+2. semantic: judged a word as positive or negative"
+Stimuli,Content,Sensory_info,Visual,visual,Visual,Visual,Visual,visual,Visual,Visual,visual,Visual,Visual,Visual,visual,visual,Visual,visual,visual,visual,visual,visual,visual,visual,Visual,visual,,visual,Visual,Visual,Visual,Visual,Visual,Visual,Visual,Visual,Auditory,Visual,visual,visual,Visual,Visual,Visual,visual,Visual,visual,visual,visual,visual,visual,Visual,Visual,visual,Visual,visual,Visual,Visual,visual,Visual,Visual
+,,Semantic_info,trait,trait,statements,trait,two-sentences scenarios,trait,trait,trait,trait,trait,trait,non-erotic pictures,trait,trait,female faces,trait,trait,trait,trait,trait,trait,trait,"personality , roles, group
+(‘clever and cunning’, ‘considerate and kind’)",trait,,trait,statement,traits,trait,trait,trait,trait,traits,trait,"phrase(""I am popular,” “I wish I had more friends"")",adjectives,nouns,trait,trait and social identity,trait and social identity,trait,statement,traits,trait,pictures,trait,trait pairs,trait,trait,trait,statement about self esteem,trait,trait,colored circle,traits,statement,trait,trait
+,,Source,"Anderson, 1968","1. Anderson 1968, 
+2. Wang and Tue, 2005",online questionnaires,"Klein, Loftus, & Kihlstrom, 1996","Fields and Kuperberg, 2012, 2015, 2016","Anderson, 1968","Craik et al., 1999","Craik et al., 1999","Liu, 1990","Liu, 1990","Anderson, 1968",Lang et al. 2005,translated into German,page4 table1,a commercial online image data base (http://en.fotolia.com/),"Anderson, 1968","personality questionnaires, descriptions of appearance","
+1.Kelley, 2002
+2.Ochsner,2005
+3.Macrae,2004",,"Wang and Cui, 2005:normalized Chinese personality trait adjectives","Anderson,1968","Y. Wu,2010",generated by the experimenters,"Anderson,1968",,"Anderson,1968","Anderson,1987","Anderson,1968","Anderson,1968",from commonly used parenting self-report questionnaires and observational scales,"Craik et al., 1999","Craik et al., 1999","Baayen, 1993: Celex Lexical Database","Pauly et al., 2011","Harter, 1985: Self Perception Profile for Children
+Marsh, 1990: Self Description Questionnaire I, 
+Eccles et al., 1993: Childhood and Beyond Study",,,"Rubin& Friendly, 1986",NA,"Anderson, 1968","Anderson, 1968","see page34,Supplement","Anderson, 1968","YL, 1990: Modern Lexicon of Chinese Frequently-used Word Frequency",Interpersonal Relations Picture System (IRPS),"Liu, 1990","Spencer-Rodgers et al., 2004; 
+Zhang et al., 2006; 
+Zhu et al., 2007","Liu, 1990: Chinese words ","Ying, 2002: An experimental study on the self-reference effect","Ying, 2002: An experimental study on the self-reference effect"," Coopersmith, 1967: Coopersmith Self-Esteem Inventory","Huang, X. & Zhang, S, 1992","Aoki, 1971",NA,"Anderson, 1968","Rosenberg, 1965: Rosenberg Self-Esteem Scale 
+Du et al., 2012: Relational Self-Esteem Scale
+Luhtanen & Crocker, 1992: Collective Self-Esteem Scale","Ying, 2002: An experimental study on the self-reference effect","Ying, 2002: An experimental study on the self-reference effect"
+,Classification,Valence,NA,"postive, negative",positive negative,,"positive, neutral, negative","positive,negative","postive, negative","postive, negative","positive, negative","positive,negative","positive, negative","positive,neutral,negative","masculine,feminine",NA,low-high attractiveness,NA,"positive,neutral, negative","positive,negative","positive,negative","positive,negative","positive, negative","positive, negative","positive, negative",NA,,"positive, negative","positive, negative","postive, negative",personality,"positive,negative","positive, negative","positive, negative","postive, negative","positive, negative","positive, negative","positive, negative","positive, negative","positive, negative",NA,NA,"positive, negative","positive, negative",NA,negative,NA,"negative, positive","positive, negative","positive, negative","positive, negative","positive, negative",NA,"positive, negative",high/low-desirability,NA,"positive, negative",NA,"positive, negative","positive, negative"
+,,Category,personality,personality,"statements(communication, moral)",personality,two-sentences scenarios,personality,personality,personality,personality,personality,personality,social and non-social pictures,personality,"personality traits, mental states, and physical attributes",female faces,personality,personality,personality,personality,personality,personality,personality,"personality , roles, group",personality,,personality,"1.semantic: with true or false items 
+2.self, other: physical/personality traits",personality,"character, appearence","positive/developmentally supportive, negative/developmentally unsupportive",personality,personality,personality,personality,"social, verbal–academic competence",personality,abstract and concrete nouns,"general disposition, interactive social characteristics, cognitive , physical traits","personal(trait), social(social identity)","personal(trait), social(social identity)",,"physical, academic, prosocial",divided by likeability into thirds,NA,interpersonal behavior patterns,personality,"personality(non-contradictory,contradictor)",personality,personality,personality,Self-Esteem Items ,personality,personality,three colored circles,personality,"personal self-worth, relational self-worth, collective self-worth, general knowledge",personality,personality
+,Assignment,Unique_number,240,240,160,40,216,130,288,288,480,480,270,160,240,120,240,270,90,600,600,300,50,384,100,75,,40,30,60,180,52,48,48,216,216,40,52,52,30,360,360,NA,60,135,240,32,480,356,384,168,168,96,336,300,3,208,40,168,168
+,,Assignment_of_stimuli,Pseudo-randomize,counterbalanced,counterbalance,random,counterbalance,random,pseudorandom,pseudorandom,pseudorandom,random,pseudo-random,random,pseudo-random,random,counterbalance,pseudorandom,random,random,random,exchanged,random,pseudo randomly,randomized,counterbalance,,random,random,"Order of presentation of the three conditions was counterbalanced across subjects, and sentencess of positive and negative valence were randomly presented in each block of the “self” and “other” conditions.",pseudorandom,"This produces four conditions, with 26 trials per condition.",counterbalanced,counterbalanced,randomize,pseudo-randomized; counterbalanced,counterbalance,random,random,counterbalance,random,random,counterbalanced,counterbalanced,counterbalanced,"pseudo-random, counterbalance","3 most/self-relevant,3 non -relevant/other,26 control,
+  arranged in blocks in a pseudo-randomized sequence,
+  self/other repeate 6 times,control repetate 4 times",pseudo-random,counterbalance,pseudo-random,random,random,pseudo-random,,counterbalance,"32 self-friend,32 self-stranger,32 friend-stranger,96 nonmatch","Each word was randomly assigned to each condition for each participant;
+  Each participant viewed the words in random order
+  Encoding: 160
+  Retrieval: 208, encoding + 48 new distractors",,random,random
+,,repetition,no,No,no,yes,no,no,no,no,no,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,no,,yes,no,No,no,Yes,no,no,No,no,yes,yes,yes,yes,no,no,NA,yes,Yes,no,yes,no,yes,no,yes,yes,yes,no,no,Yes,No,yes,yes,yes
+Procedure,notes,Encoding or not,yes,yes,no,yes,no,yes,Yes,Yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,,yes,yes,Yes,yes,Yes,yes,yes,Yes,Yes,yes,Yes,Yes,yes,yes,yes,Yes,yes,Yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,Yes,yes,yes,yes
+,Encoding/Other,Description_original_text,,,,,,,,,,,,,,,,,,,,,,"The trait judgment task included four scans, each containing four blocks. In each block participants completed twelve trials of one specific condition. The order of the blocks were counterbalanced using a Latin Squire design. Each session of every condition lasted for 38 s, including a 2 s instruction and 12 trials. Amongst the task blocks were the null session that lasted for 30 s, in which participants passively viewed the asterisks on the screen. All of the stimuli were presented in their native language. Participants used their left and right index fingers to make judgments by pressing buttons. After trait judgment task, structural scan was obtained.",,,,,,P 297 | Task,,"The task included two runs, with 10 blocks per run. Each block began with a 4.7-s cue instructing participants how to respond to the following trials, followed by five to six trials of 4.7 s each separated by a jittered inter-stimulus-interval (ISI) averaging 277 ms. Blocks were separated by a jittered rest period averaging 4.98 s. A total of 26 trials were conducted in each of 4 conditions: instruction block (self, change) by trial type (developmentally supportive, developmentally unsupportive). Each trial (see Table 1 for stimuli) was seen under each instruction, and traits were mixed within blocks. General code can be found at gitlab.com/dsnlab/svc.",,,P7 | 2.1.4. Procedure,,,,,,,,,,P3 | Experimental Tasks,,,,,,,,,,,,"page 2, 2.3, para 1",,,
+,,In scanner or not,yes,yes,Yes,yes,yes,yes,Yes,Yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,,yes,yes,Yes,yes,Yes,yes,yes,Yes,yes,yes,,,yes,no,yes,,yes,Yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+,,Presenting_software,,Epson ELP-7000 LCD,,,,SuperLab,E-Prime software,E-Prime software,,,PsyScope software,,Presentation14.2,PsyScope,E-Prime 2.0,,,E-prime,E-prime,NA,,,EPrime 2.0,,,,E-Prime,E-Prime,Matlab,NA,E-prime,Psycscope v1.2,Presentation 16,Presentation,MacStim 3.2,"MATLAB v7.4 ,PsyScope","MATLAB v7.4 ,PsyScope",Presentation,,,NA,,E-Prime,,Presentation,,,,,,,,Presentation,E-prime2.0,Presentation,,,
+,,Presenting_device,,a mirror on the head coil,,a mirror on head coil,,angled mirrors,,,an angled mirror,an angled mirror,"projected to participants with an Epson (model ELP-7000)
+  LCD projector onto a screen positioned at the head end
+  of the bore.",,,a mirror,a 45°angled mirror,"a mirror,PsyScope",,a rear-mounted projection system,a rear-mounted projection system,NA,,an angled mirror,,,,,a mirror,a mirror attached to the head coil,NA,,a screen mounted on a custom head coil,a screen mounted on a custom head coil,"1. MR-compatible goggles (VisuaStim XGA, Resonance Technology Inc., Los Angeles, USA)
+  2. MR-compatible headphones (VisuaStimDigital, Resonance Technology, RT, Northridge, CA, USA).",NA,headphone,a mirror,a mirror,,,"MR-compatible LCD mounted
+  on a head coil",NA,a mirror,mirror mounted on the head coil,a mirror,,an angled mirror,an angled mirror,an angled mirror,an adjustable mirror,an adjustable mirror,,,a mat screen,a mirror,"1. an angled mirror
+  2. a back projection screen",,an adjustable mirror,an adjustable mirror
+,,Response_type,"sure yes, unsure yes, unsure no, sure no","yes,no","go,no-go","relevance, 1-4",,"yes,no","yes,no","yes,no","yes,no","yes,no","yes, no","yes,no","yes,no","rating,1-4","left(themselves or their familiar other),right(the woman on the screen )","yes, no","yes,no","yes,no",1~4,"yes,no",1 (unlike this person) to 3 (very much like this person),"yes,no",yes，no,6-Jan,,"(1 = “not at all”,2=“a little”,3=“quite well”,4=“completely”)","yes, no","Yes, no","yes,no","yes, no","Yes, no","the extent to which describe them, 1-4","characterizes me, 0-5","Yes, no","yes, no"," poor/good descriptor, 1-4"," poor/good descriptor, 1-4","yes,no","yes, no","yes, no","Yes, no",1 (‘not at all’) and 4 (‘completely’),"left, right","yes,no","valence,arousal rating","yes,no","yes,no","yes,no","yes, no, not sure","yes, no, not sure",“like me” or “unlike me”,"(1= not at all like me, 4= most like me);(1= strongly disagree, 4= strongly agree)","""almost never,"" ""rarely,"" ""sometimes,"" or""almost always""",yes，no,"yes, no",agreement(1-4),"yes, no, not sure","yes, no, not sure"
+,,Response_Method,press buttons,press buttons,press button,press buttons,answer comprehension questions,press buttons,press buttons,press buttons,press button,press buttons,Press buttons,press button,press button,press buttons,press button,press button,press button,press button,press button,press buttons,press button,press buttons,press buttons,,,press buttons,press button,press buttons,,Press buttons,press buttons,press buttons,press buttons,press buttons,press button,press button,press button,press button,press button,press button,press buttons,Press buttons,press buttons,press button,"arousal, valence, 1-9",press button,press button,press button,"if judge a word as “yes” (or “positive”),press a button once;if judge a word as no (or “negative”),press a button twice; if “not sure” (or “neutral”),not to respond","if judge a word as “yes” (or “positive”),press a button once;if judge a word as no (or “negative”),press a button twice; if “not sure” (or “neutral”),not to respond",press buttons,press button,Press buttons,press buttons,press button,Press buttons,press button,press button
+,,"flowchart of one trial
+(秒为单位)","1.general instruction,10s
+2.cue,recall his/her characteristics,4s
+3.trait,max.4s each
+4.ISI(mean= 1.4 s; sd= 1.2 s)","1. cue+trait, 2.5s ","self-reference localizer task:
+1.cue, 2s
+2.10 traits, 3s each
+3.respond, yes/no
+4.fixation between blocks, 10s","1.cue, inform judgment's type, 3s
+2.trait, 5s
+3.fixation between blocks, 7-12s","1. fixation cross, 2s-20s
+  2. two-sentences scenario, 4s
+  3.comprehension questions,4s","1.cue, 9s
+2.fixation crosshair, 0.5s
+3.adjectives, 4.5s
+4. fixation-cross, 5s","1. cue+an adjective
+2. a fixation
+altogether 4s","1. cue+an adjective
+2. a fixation
+altogether 4s","1.cue, 4s
+2.a trait adjective below the cue word, 2s
+3.interstimulus interval, 1s
+4.full conditions between each session, passively view asterisks, 16s
+","  1.cue,4s
+  2.a trait adjective below the cue word,2s
+  3.interstimulus interval,1s
+  4.next trait adjective
+  ……
+  null session(20s, including 4s instruction) judgement session","1.cue+trait+fixation/just a fixation, 2.5s","1.viewe a subset of 80 pictures 24 ± 4 h prior to scanning
+2.passive view pictures,4s
+3.answer(yes,no) questions regarding to self-referentiality(does this picture personally relate to you?’) , 3s
+4.answer(yes,no) questions regarding to episodic memory retrieval(Is this picture familiar to you?), 3s
+5.fixation-cross period, range 13.65–19.5 s","1.instruction(attributes of self/ Brad Pitt/Julia Roberts,contained
+the letter “r” or not ),5s
+2.repeat the pattern 3 times: trait(2.1s)+fixation(1.1s-3.1s)
+3.fixation between blocks,5.6-10.6s","one trial,3.6s
+1.self trials, the question was presented alongside a chalk outline of a person’s head (representing the participant), 
+2.other trials, were accompanied by a photograph of  Bush (randomly selected from among four possible  photographs)","
+1.instrction((“Yourself” vs “Your familiar other”),2s
+2.a female face,2s
+3.fixation,(m=6s)
+4.judge(left, right) who(themeselves-other or familiar other-other) have more attractiveness
+5.rest block after 4 task block, 40s","1.cue + target, 2s
+2.fixation, 0.5s","1.cue(""You""or ""Friend""), recall his/her characteristics,60s
+2.trait,5s","1.cue(picture)+""Is this person kind"",3s
+2.ITI,1.5s-7.5s","1.prime(Self, Minimally-related Other, Unrelated Other),3s
+2.ITI,1.5-6s
+3.self-evaluation,3s","1.fixation,0.5s
+2.cue(word)+trait,2.5s
+3.fixation,0.5s","1.trait,(a trait adjective and a target person's name),3s
+2.fixation,1s","1.instruction,2s
+2.trait,6s
+3.null session,30s","1. an adjective, 5s
+2. a fixation, 2-6s",NA,,"1. an instruction, 1.5s
+2. an adjective, 3.5s 
+3. a fixation, 0.75-1.25s","1.cue,judge sentences,4s
+2.a fixation,20s","
+1.cue,judge sentences,4s
+2.a fixation, 20s (at the end of each block)","1.trait+fixation, 1.5s
+2.a fixation cross, 0.5s
+3.Null events,2s(pseudorandomly jitter)","1.instruction, 4.7s
+2.adjective, 4.7s
+3.ISI, 0.277s","1. instruction, 2.2 s
+2. trait, 2.2 s
+3. ITI, 4-8s","1. fixation, 0.25s
+2. trait, 1.25 s
+3. rating scale,2.25s
+4. ITI, 0.25s","(presentation of music, keep playing)
+ 1. hashtag, 2s
+ 2. instruction, 3s
+ 3. fixation, 1s
+ 4. trait, 4s","1.cue,5s
+2.trait,2s
+3.fixation,1.5-2.5s","1.phrases, respond, 3s","Agentic:
+1. cue, your/computer, 1s
+2. cards, choose a card, 2s
+3. trait of cards, 2s
+4. ISI, 2-10s
+
+Conceptual:
+1. cue+trait, 4s
+2. ISI, 0.4-8s","Agentic:
+1. cue, your/computer, 1s
+2. cards, choose a card, 2s
+3. trait of cards, 2s
+4. ISI, 2-10s","1. adjective, 3s
+2. ISI, 1s","1.instruction, 3.5s
+2.trait, 1.8s
+3.a blank page,1s","1.instruction, 3.5s
+2.trait, 1.8s
+3.a blank page,1s","1.Instruction,2s
+2.cue+trait,3.5s
+3.ISI,3.5s","1. fixation, 0.4s
+2. trait, 5s","1. instruction, 3.5s
+2. traits, 3.5ms
+3. fixation, 0.5s","1. ""ready"", 1.5s
+2. trait, 2s
+3. fixation, 2s
+4. remember or forget instruction, 2s
+5. blank, 0.5/2.5/4.5s","1 .picture, 16s
+2. valence rating, 8s
+3. arousal rating, 8s","1. instruction, 4s
+2. cue+trait, 2s
+3. cue, 1s
+4. cue+trait, 2s","1. cue, 2s
+2. pair of traits, 2s
+3. response windows,2s","1. instruction, 3s
+2. cue+trait, 2s
+3. cue, 1s
+4. cue+trait, 2s","1. fixation point, 1s
+2. trait, 2s
+3. mask, 2s
+4. blank, 1s","1. fixation point, 1s
+2. trait, 2s
+3. mask, 2s
+4. blank, 1s","1. sentence, 4s
+2. fixation, NAs","1.cue+trait, 4s
+2.fixation, 2/4/6s","1. trait, 4s
+2. fixation, 4-12s","1. fixation, 1s
+2. WM cues(two colored circles), 1s
+3. Delay, 8s
+4. Location probe(one black circle), 1.5s
+5. color-label probe(label in the location), 1.5s","1. fixation, 1s
+2. instruction, 3s
+3. fixation, 1s
+4. trait, 3s","1. statement+rating scale, 4s
+2. fixation, 2,4 or 6s","1. fixation point, 1s
+2. trait, 2s
+3. mask, 2s
+4. blank, 1s","1. fixation point, 1s
+2. trait, 2s
+3. mask, 2s
+4. blank, 1s"
+,,Number_of_trial_total,180,320,160,160,216,120,144,144,240,240,150,160,240,240,240,150(60 fixation trials),90,300,360,200,350,192,200,150,,200,90,90,180,104,48,48,216,126,80,204,308,90,180,180,120,120,135,120,48,288,128,192,108,108,144,336,NA,192,320,160,108,108
+,,Number_of_trial_block,5,NA,10,4,36,10,NA,NA,NA,NA,NA,NA,3,NA,5,75,,NA,NA,NA,5,12,5,NA,,50,5,5,,20,12,8,6,NA,20,"Agentic Self-reference Task:52(2runs)
+  Conceptual Self-reference Task:50(2runs,25of each question type)","Agentic Self-reference Task:52(4runs)
+  Conceptual Self-reference Task:50(2runs,25of each question type)",6,5,5,8,60,5,40,"18, 12",8,32,NA,9(12blocks),9(13blocks),4,6,NA,NA,5,NA,9(12blocks),9(13blocks)
+,retrival,note,,,"Retrieval of go no go task, not self reference task",,,"For the recognition task, subjects were instructed to discriminate between studied (old) words and unstudied (new) words. Each word prompted a “yes” (old) or “no” (new) response,and subjects pressed a button with the right index or middle finger, respectively, to indicate their decision.",,,,,,,,,,,,,,,,,,,,,,NA,,,,,,,,,,,,,,,P4 Social Attribution Task,,,,,,,,,,,,"page 2, 2.3, para 3",,,
+,,Description_original_text,,,,,,,,,,,,,,,,,,,,no,,,,,,,,NA,,,,,,,,,,,,,,,yes,,,,,,,,,,,,not,,,
+,,In scanner or not,yes,,no,,,no,No,No,no,no,No,,,,,no,,no,,,,not,,yes,,,,NA,,,,,,yes,,no,yes,,no,no,,,PsyScope version 11.1,no,,,,no,no,no,,,yes,,NA,,no,no
+,,Presenting_device,,,,,,PC,NA,NA,,,,,,,,NA,,,,PC,,PC,,,,,,NA,,,,,,Presentation,,pc,a screen,,,,,,NA,pc,,,,pc,an adjustable mirror mounted on the head coil,an adjustable mirror mounted on the head coil,,,,,‘‘yes” (presented) or ‘‘no” (not presented),,an adjustable mirror mounted on the head coil,an adjustable mirror mounted on the head coil
+,,Response_type,"sure yes, unsure yes, unsure no, sure no",,,,,"yes(old),no(new)","yes, no","yes, no","old,new",press one of two buttons,"old,new",,,,,"old, new",,High-confidence Old;Low-confidence Old;New,,"old/new,1-6",,"first,old or new;if old, then Remember(R): participants can consciously recollect the memory of seeing the word in the trait judgment stage and retrieve the word in detail; Know (K):they could not recollect any detail information about the word and simply have a feeling of knowing","agreement, 1-7",a two-point scale,,,,NA,,,,,,old/new,,"old,new","“old” with high confidence, “old” with low confidence, “new",,"old, new","old, new",,,answer question(either “People...All friends?” or “Bumper cars...Same weight?”),"old(irrespective of the ‘‘F’’ or ‘‘R’’ instruction),new",,"old,new",,"old,new","N(new);
+  Y(old),further “R” key, for remembering, or the “K” key, for knowing","N(new);
+  Y(old),further “R” key, for remembering, or the “K” key, for knowing",,,"Yes, no",,with the right-hand index or middle finger button press,,"N(new);
+  Y(old),further “R” key, for remembering, or the “K” key, for knowing","N(new);
+  Y(old),further “R” key, for remembering, or the “K” key, for knowing"
+,,Response_Method,press one of four keys with their right hand,,"old,new",,,press buttons,press button,press button,press button,,press button,,,,,via left- and right-handed key presses,,press button,,press button,,press the keyboard,press buttons,Press buttons,,,,NA,,,,,,press button,,press button,press button,,,,,,,press button,,press button,,press button,press button,press button,,,Press buttons,,NA,,press button,press button
+,,Number_of_trial_total,240,,80,,,,288,288,480,480,180,,,,,180,,600,,300,,384,,90,,,,,,,,,,180,,412,416,,360,360,,,,240,,224,,384,168,168,,,200,,208,,168,168
+,,flowchart of one trial,"1.general instruction,10s
+2.cue,recall his/her characteristics,4s
+3.trait(same,old),max.4s each
+4.ISI(mean= 1.4 s; sd= 1.2 s)",,"1.a sentence
+
+80 moral behavior sentences: 10 first-person from the group condition, 10 third-person/group condition, 10 first-person/alone condition, 10 third-person/alone condition, 20 first-person foils, and 20 third-person foils.",,,,"judge(yes,no) whether adjectives are studied previously","judge(yes,no) whether adjectives are studied previously",evaluate the word as old or new,"1.evaluate the word as old or new, 
+2.if identified the word as new,it disappeared after response,
+3.if  identified the word as old,participants were further asked to make an R/K judgment by indicating whether ‘remembering’ (R) the item or simply ‘knowing’ (K) the item
+
+  Remember(R): participants can consciously recollect the memory of seeing the word in the trait judgment stage and retrieve the word in detail;
+  Know (K): they could not recollect any detail information about the word and simply have a feeling of knowing""","1. a fixation, 0.5s
+2. a word, 2s",,,,,"1.a fixation, 0.5s
+  2.word, 2s",,,,"1.fixation, 0.5s
+2.learning item, 2.5s ",,"
+recognition memory task:
+1.judge whether they were “old” or “new” 
+2.If an “old” response was selected,make a remember/ know (R/K) judgment ",,"1.trait adjective
+2.transcranial magnetic stimulation (TMS)(0s,0.08s,0.16s,0.24s,0.48s)",,,,,,,,,,"1.instruction,5s
+2.trait,2s
+3.fixation,1.5-2.5s",,,,,"1. new and old, 1.5s
+2.trait, 1s
+3.a blank page, 1s","1. new and old, 1.5s
+2.trait, 1s
+3.a blank page, 1s",,,"1. a prompt
+2. a movie, 15s","1. ""ready"", 1s
+2. trait, 2s
+3. blank, 0.5s",,,,,,,,,"1.each trait adjective, 2s",,,,,
+fMRI_result,Types,,block,event-related,block,block,block,mixed,event-related,event-related,event-related,event-related,event-related,event-related,mixed,event-related,block,event-related,mixed,event-related,event-related,event-related,block design,block design,block design,event-related,,block,block,block,event-related,mixed,mixed,mixed,block,event-related,block,block,block,block,NA,block design,block design,event-related,block ,event-related,mixed block design,block,block design,event-related,block,block,block,mixed,event-related,mixed,block,event-related,block,block
+,Contrasts,reported_contrasts,"Self >syllables, friend>syllables, self>friend, friend>self",self>mother,self>Obama,"self>close friend or relative,third person perspective>first person perspective","Self-Neutral>Fixation,Self-Positive>Fixation,Self-Negative>Fixation,Other-Neutral>Fixation,Other-Positive>Fixation,Other-Negative>Fixation",self>other,self>Einstein,Self Remembered>Einstein Remembered,self>font-judgment," self>Jesusself>font,self>Zhu Rongji,self>Sakyamuni,","self>friend, self>case,friend>self","Self-referential >social,social>self-referential,self-referential>non-self-referential","Self>Julia Roberts or Brad Pitt, Self>Lexical,Julia Roberts or Brad Pitt>Self,Lexical>Self,Julia Roberts or Brad Pitt>Lexical ","self>Bush,Bush>self",Self-other>familiar-other,self>Bush,Me>Friends>Stranger>Unpleasant,NA,Self>Unrelated other,"self>Bruce Lee((encoding, (SRR+SIR+SF - ORR - OIR - OF)) ,SRR>SIR ,other-relevant>other-irrelevant",partner and self>parent and friend,"1PP:self>font,self>friend,self>famous
+3PP:self>friend,self>famous,self>font",self>friend,"self>Queen,self>Control",,"Self General>Control,Self Specific>Control,",[self>semantic]>[an acquaintance>semantic],"Self>Semantic,an acquaintance>Semantic,Self>an acquaintance,an acquaintance>Self,Self>Semantic,an acquaintance>Semantic, Self>an acquaintance,an acquaintance>Self,Self>Semantic,Positive Self>Semantic,Negative Self>Semantic","self>mother,Bush>mother","Self>Change,DS>DU","Self > Syllable, close>syllable, Positive > Syllable","Self>friend, self>other, friend>self, other>self","self>lex, (self_sad>happy)>(lex_sad>happy), (self_sad>neutral)>(lex_sad>neutral), (self_happy>sad)>(lex_happy>sad), (self_happy>neutral)>(lex_happy>neutral)","self-evaluation>lexical, positive self >lexical, positive self>positive other, Self-negative > self-positive","Self>rest, Harry Potter>rest, self>Harry Potter, Harry Potter>self","self>Bush,  Bush>self, self>computer, computer>self","self>computer, computer>self","Self>semantic, other>semantic, self>other",NA,Self_Personal + Self_Collective>Other_personal + Other_Collective; Self_Personal + Other_personal>Self_Collective + Other_Collective; Self_Collective + Other_Collective>Self_Personal + Other_personal ,"self>control, other>control, self>other",self>mother,(Self vs. Letter) ^ (Mother vs. Letter),"self>other, Self-reference_forget>Self-reference_remember, Luxun-reference_forget>Luxun-reference_remember","self>control, other>control","Self>Liu, Self>father, Self>best friend, Self>Font, Mother>Liu, Mother>Font, Father>Font, Friend>Font",self>Hu Jintao,"Self>other, mother>other, self>mother, mother>other","self>semantic, self>other",,"self>other, self>semantic","self evaluation> celebrity evaluation, self feedback>celebrity feedback ","Self>Naoto Kan, Self-correct>Naoto Kan -correct, Self-miss>other-miss, self-correct>other-correct",self-friend>friend-stranger,"self>semantic, other>semantic, self>other, other>self","Personal self-worth>control, Relational self-worth>control, Collective self-worth>control","self>semantic, self>other",
+,,standardized_contrasts,"Self > NonPerson, self>close",self>close,self>celebrity,self>close,self>nonPerson,self>nonPerson,self>celebrity,self>celebrity,self>nonPerson,"self>nonPerson,self>celebrity","self>close, self>nonPerson",self>nonPerson,"self>celebrity, self>nonPerson",self>celebrity,self>close,self>celebrity,self>close,NA,self>stranger,self>celebrity, self>close,"1PP:self>nonPerson,self>close,self>celebrity
+3PP:self>close,self>celebrity,self>nonPerson",self>close,"self>celebrity,self>nonPerson",,self>nonPerson,self>close,"self>nonPerson,self>close",self>close,self>nonPerson,Self > NonPerson,"self>close, self>celebrity",self>nonPerson,"self>nonPerson, self>close","self>celebrity, self>nonPerson","self>nonPerson, self>celebrity",self>nonPerson,"self>nonPerson, self>close",NA,self>celebrity,"self>nonPerson, self>celebrity",self>close,,self>celebrity,self>nonPerson,"self>celebrity, self>close, self>nonPerson",self>celebrity,"self>celebrity, self>close","self>nonPerson, self>celebrity",,"self>close, self>nonPerson","self>celebrity, self>celebrity",self>celebrity,NA,"self>nonPerson, self>celebrity",self>nonPerson,"self>nonPerson, self>celebrity",
+,Scanning_Parameters,System/equipment,Siemens Avanto,Philips Intera Achieva,Siemens Magnetom Tim Trio,Siemens,Siemens Trio,Signa,Siemens Allegra,Siemens Allegra,Siemens Trio,Siemens Trio,General Electric Medical Systems Signa,Siemens,Siemens,Siemens Trio,GT HDx,"whole body scanner (General Electric Medical Systems Signa, Milwaukee, WI)",Philips Ingenia 7FN8GDI,Siemens Skyra,Siemens Skyra,Siemens Trio,GE Discovery MR750,Siemens Trio scanner,Siemens Prisma Scanner,PET,,Magnetom Allegra,Philips Intera,Philips Medical Systems,Tim Trio Scanner,Siemens Skyra scanner,Varian INOVA,GE Signa LX Horizon Echospeed,Siemens MAGNETOM,Phillips,Siemens Allegra head-only,Siemens Avanto,Trio,GE,,ISOL Forte system,Philips Achieva whole-body MRI scanner,Philips,Siemens Trio Tesla,Siemens Magnetom Trio TIM,Philips Intera whole-body,GE,Philips Achieva,Siemens Trio,GE Signa,GE Signa,Siemens TRIO,Siemens TRIO,Siemens MAGNETOM Verio,"Siemens
+  Magnetom Trio TIM",Magnex Eclipse Power Drive 250,Siemens Trio,GE Signa,GE Signa
+,,Magnetic field,1.5T,3T,3T,3T,3T,1.5T,3T,3T,3T,3T,1.5,1.5T,3T,3T,3T,1.5T,3T,3T,3T,3T,3T,3T,3T,,,3T,3T,3T,3T,3T,4T,3T,3T,3T,3T,1.5T,3T,3T,,3T,3T,3T,3T,3T,3T,3T,3T,3T,1.5T,1.5T,3T,3T,3T,3T,1.5 T,3T,1.5T,1.5T
+,,Acquisition_Protocol,"T1, T2* EPI","T1,T2* EPI","T1, T2* EPI","T1, T2* EPI","T1, T2*, EPI","T1, T2* EPI","T1, T2* EPI","T1, T2* EPI","T1, T2* ,EPI","T1, T2* EPI","T1, T2* EPI","T1, T2* EPI","T1, T2* EPI","T1, T2* EPI","T1, T2* EPI","T1, T2* EPI","T1, T2* EPI","T1, T2* EPI","T1, T2* EPI","T1,T2* EPI","T1, T2* EPI","T1, T2* EPI","T1, T2* EPI","T1, T2* EPI",,"T1, T2* EPI","T1, T2*, EPI","T1, T2* EPI","T1, T2* EPI","T1, T2* EPI","T1, T2* EPI","T1, T2* EPI","T1, T2* EPI","T1,T2* EPI","T1, T2* EPI","T1, T2*, EPI","T1, T2*, EPI","T1, T2* EPI",,"T1, T2* EPI",,"T1, T2*, EPI","T1, T2* EPI","T1, T2* EPI","T1, T2* EPI","T1, T2* EPI","T1, T2* EPI","T1, T2* EPI","T1, T2*, EPI","T1, T2*, EPI","T1, T2* EPI","T1, T2* EPI","T1, T2* EPI","T1, T2*, EPI","T1, T2* EPI","T1, T2* EPI","T1, T2*, EPI","T1, T2*, EPI"
+,Preprocessing,Software,SPM5,SPM8,SPM8,"SPM2,matlab",SPM8,AFNI,SPM2,SPM2,SPM2,SPM2,SPM99,SPM8,SPM12,SPM2,SPM8,SPM99,SPM12,"FSL version 9.0,FEAT","FSL version 9.0,FEAT",SPM5,AFNI,SPM8,"SPM12,MCFLIRT,FSL,fMRI Expert Analysis Tool Version 5.98",SPM 2,,"MATLAB 2015b, SPM12","SPM5,Matlab 7.1",SPM 5,"SPM2,matlab","DARTEL,FSL,SPM12",SPM2,SPM2,SPM8,SPM5,SPM99,SPM2,SPM2,SPM99,,SPM8,SPM5,SPM8,Brain Voyager QX,SPM8,"SPM 12, Matlab 2015a",SPM2,SPM8,SPM2,SPM99,SPM99,"Brain Voyager QX v2.3,",Brain Voyager QX v2.3,"SPM 5,Matlab 7.3",SPM12,SPM2,"DPARSF,SPM12",SPM99,SPM99
+,,Protocol,"realign, co-register, normalize, smooth, high-pass filter","realign,normalize,smooth","realign,normalize,coregister,smooth,high-pass filtered","realign,normalize,smooth,high pass filter","realign, co-register, normalize, smooth","coregister,normalize,smooth","realign, normalize,smooth","realign,normalize,smooth","realign, co-register, normalize, smooth","realign, co-register,normalize,Smooth","remove, realign,co-register,normalize,smooth","realign,normalize,smooth, high-pass filter","realign,coregister,normalize,smooth,high-pass filter","realign,normalize,smooth","realign,normalize,smooth","remove, realign,co-register,normalize,smooth","realign,co-register,normalize,smooth,high-pass filter","realign,normalize,smooth,high-pass filter","realign,normalize,smooth,high-pass filter","realign,normalize,smooth","realign,co-register,normalize,smooth","realign, co-register,normalize,Smooth","realign,smooth, high-pass temporal filtering","coregister,normalize,smooth",,"realign,normalize,smooth,high pass filter","realign,co-register, normalize, smooth,high-pass filter","realign, coregister, normalize, smooth, high-pass filter","realign,co-register, normalize,smooth","realign, co-register,normalize,Smooth, high-pass filter","correct, smooth,high pass filter","coregister,normalize,correct, smooth,high pass filter","remove, realign, coregister, smooth, high-pass filter","realign,normalize,smooth","realign, coregister,normalize,smooth,high pass filter","realign, normalize, smooth","realign, normalize, smooth","realign, coregister,normalize,smooth,high pass filter",,"realign,normalize,smooth","realign,coregistere,normalize","realign,co-register, normalize, smooth,high-pass filter","motion correction, smooth,coregister, normalize","realign,normalize,smooth,high pass filter","realign, normalize, smooth, band pass filter","realign, coregister,normalize,smooth","realign,co-register,normalize,smooth","realign, coregister, normalize, smooth","realign,co-register,normalize,smooth","realign,co-register,normalize,smooth",,"realign,co-register,normalize,smooth","realign,normalize,smooth, high-pass filter","realign,co-register, normalize, smooth，high-pass filter","motion correction, smooth,normalize","realign, co-register,normalize,Smooth","realign,co-register,normalize,smooth","realign,co-register,normalize,smooth"
+,Text_file_name,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Result_encoding/other,RT_group1,Notes,,,,,,,,,,,,,,,,,,,,accuracy,,"1PP, friend, famous, font",,,,,,"self_1:positive
+self_2:negative
+other_1:positive
+other_2:negative
+low PP","Mean(SEM): character, appearence mother,Bush",,,,,accuracy,,,,,,,,,,,,,,,,,,,,,,,,
+,,Statistics,"self,other,syllables",,,"first-person perspective, third-person perspective(ms)",accuracy of comprehension questions M = 91%,"6 participants
+Self,other,letter;positive,negative","RT for young and elderly,p6, Figure 2","hit-false alarms,p3, Fig.1","Response speeds (ms)
+Non-religious;self, Sakyamuni, Jesus, Zhu-Rongji","Self, Sakyamuni, Jesus ,Zhu Rongji, Font","Encoding reaction time (ms)
+self,friend,case",,,"self, another person (ms)","page38,Figure 2. Response times in the different experimental conditions","F(2,40) = 44.03, p < .0001","F(3,138) = 7.7, p < 0.001 ",,"F(1,47)= 84.09, p < .001 ","p8,Figure 3","young:F(2, 29) = 68.00, P < 0.001
+old:F(2, 27) = 28.17, P < 0.001","F(3, 114) = 19.568, p < 0.001 ","p5,Table 1","P3,Fig. 2.",,"F(4, 76) = 12.80, p < .001"," (F(2, 45)=0.318; p=0.729) ","F(3, 90)=7.721,p<.001",P4 | Table 1,"p5,Table 2",,,,p881 | Fig. 2,NA,,,response time,P5 | Figure 2,P5 | Figure 2,"self,other,comtrol",,Other_1 = mother; neutral = letter,,,"Self,Mother,Father,Best friend,Liu-Xiang,Font",,"Han, Tibetan, self, mother, other, font",,,,"see page5, fig.2A","Self_correct/miss, other_correct/miss","mean RTs of location probe
+ match trials , see page5| Fig. 2a),","self: positive, negative
+  other(Prime minister)
+  sematic
+  letter",,,
+,,self_1_Mean,1966,,,1970,,1816,,,1077,1093,1772,,,2177,,1812,1400,,,1242,,428,2305.79,,,1746,1917,1855,1305.15,,1322.3,1240.3,,,,,,1.79,,,1403,,1965,,,1143,,877,,,,,2296.4,,1530.1,,,
+,,self_1_SD,79,,,,,472,,,46,34,29,,,219,,27,604,,,46,,13.7,973.19,,,288,,319,32,,,,,,,,,,,,162,,487,,,158,,19,,,,,361.4,,255.6,,,
+,,self_2_Mean,,,,2115,,1824,,,,,,,,,,,,,,1319,,,2583.53,,,1766,,1969,1267.24,,,1225.4,,,,,,,,,,,NA,,,,,,,,,,2404.7,,1517,,,
+,,self_2_SD,,,,,,478,,,,,,,,,,,,,,51,,,972.8,,,293,,231,38,,,,,,,,,,,,,,NA,,,,,,,,,,424.9,,262.4,,,
+,,self_3_Mean,,,,,,,,,,,,,,,,,,,,,,,1695.34,,,,,,,,,1278.9,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,self_3_SD,,,,,,,,,,,,,,,,,,,,,,,838.11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_1_Mean,1997,,,,,,,,1091,932,1725,,,2241,,1881,1291,,,1308,,420.2,2399.45,,,1747,1986,1953,1299.51,,1367.8,1234.9,,,,,,1.81,,,1434,,1971,,,1120,,872,,,,,2413.7,,1560.6,,,
+,,other_1_SD,102,,,,,,,,59,22,39,,,212,,24,678,,,47,,15,1010.48,,,302,,314,39,,,,,,,,,,,,188,,481,,,101,,19,,,,,363.9,,259.9,,,
+,,other_2_Mean,,,,,,,,,1058,950,,,,,,,1543,,,1329,,426.1,2670.35,,,1804,,2030,1259.01,,,1296.7,,,,,,,,,,,NA,,,1110,,875,,,,,2390.3,,1558.6,,,
+,,other_2_SD,,,,,,,,,55,25,,,,,,,750,,,50,,15,988.66,,,320,,258,37,,,,,,,,,,,,,,NA,,,117,,20,,,,,493.3,,233.2,,,
+,,other_3_Mean,,,,,,,,,1018,1044,,,,,,,1650,,,,,,1735.11,,,,,,,,,,,,,,,,,,,,,,,1150,,,,,,,,,,,,
+,,other_3_SD,,,,,,,,,51,48,,,,,,,850,,,,,,774.64,,,,,,,,,,,,,,,,,,,,,,,114,,,,,,,,,,,,
+,,other_4_Mean,,,,,,,,,,751,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1167,,,,,,,,,,,,
+,,other_4_SD,,,,,,,,,,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1299,,,,,124,,,,,,,,,,,,
+,,neutral_1_Mean,2169,,,,,1584,,,,,1600,,,,,1607,,,,,,392.1,,,,1580,1937,1943,1444.12,,1267,1337.9,,,,,,1.77,,,182,,1312,,,999,,622,,,,,,,1615.8,,,
+,,neutral_1_SD,92,,,,,349,,,,,27,,,,,34,,,,,,14.8,,,,240,,238,34,,,,,,,,,,,,,,302,,,129,,15,,,,,,,190.7,,,
+,,neutral_2_Mean,,,,,,1616,,,,,,,,,,,,,,,,,,,,,,NA,1329.2,,1286.4,,,,,,,,,,,,NA,,,,,,,,,,,,1673.1,,,
+,,neutral_2_SD,,,,,,218,,,,,,,,,,,,,,,,,,,,,,NA,39,,,,,,,,,,,,,,NA,,,,,,,,,,,,163,,,
+,,neutral_3_Mean,,,,,,1472,,,,,,,,,,,,,,,,,,,,,,NA,,,,,,,,,,,,,,,NA,,,,,,,,,,,,1065.5,,,
+,,neutral_3_SD,,,,,,291,,,,,,,,,,,,,,,,,,,,,,NA,,,,,,,,,,,,,,,NA,,,,,,,,,,,,173.5,,,
+,,neutral_4_Mean,,,,,,1396,,,,,,,,,,,,,,,,,,,,,,NA,,,,,,,,,,,,,"conditions [F(2,36) =17.35, 
+  P < 0.0005]",,NA,,,,,,,,,,,,1117.7,,,
+,,neutral_4_SD,,,,,,336,,,,,,,,,,,,,,,,,,,,,,NA,,,,,,,,,,,,,,,NA,,,,,,,,,,,,155.3,,,
+,,statistics,,,,,,,,,,,,,,,,,,,,,,"there was a significant main effect of condition, F(3, 114) = 19.568, p < 0.001;there was also a significant interaction effect of condition and group, F(3, 114) = 4.557, p < 0.01",,,,,,"P299 | Reaction times
+  Condition:F(3,
+  90) = 7.721, p < .001",,,,,,,,,,,,,,,"F [2,50]=17.97, p < .0001",,,,,"main effect of tasks
+  Han: F(3,45) = 84.49, P < 0.01;",,,,,,,"main effect of
+  condition (F(3,12) = 37.62, p < .001, e = 0.79)",,,
+,RT_group2,Notes,,,,,,,,,"Response speeds (ms)
+Christians;self, Sakyamuni, Jesus, Zhu-Rongji",,,,,,,,,,,,,3PP,,,,,,"self_1:positive
+  self_2:negative
+  other_1:positive
+  other_2:negative
+  high PP",,,,,,,,,,,,,,,,,,,,Tibetan,,,,,,,,,,
+,,self_1_Mean,,,,,,,,,1125,,,,,,,,,,,,,428.8,,,,,,1723,,,,,,,,,,,,,,,,,,,,1311,,,,,,,,,,
+,,self_1_SD,,,,,,,,,50,,,,,,,,,,,,,13.8,,,,,,309,,,,,,,,,,,,,,,,,,,,20,,,,,,,,,,
+,,self_2_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,1855,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,self_2_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,245,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,self_3_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,self_3_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_1_Mean,,,,,,,,,1217,,,,,,,,,,,,,418.2,,,,,,1837,,,,,,,,,,,,,,,,,,,,1247,,,,,,,,,,
+,,other_1_SD,,,,,,,,,56,,,,,,,,,,,,,15,,,,,,291,,,,,,,,,,,,,,,,,,,,21,,,,,,,,,,
+,,other_2_Mean,,,,,,,,,983,,,,,,,,,,,,,383.5,,,,,,2008,,,,,,,,,,,,,,,,,,,,1258,,,,,,,,,,
+,,other_2_SD,,,,,,,,,46,,,,,,,,,,,,,15,,,,,,293,,,,,,,,,,,,,,,,,,,,25,,,,,,,,,,
+,,other_3_Mean,,,,,,,,,1040,,,,,,,,,,,,,,,,,,,1883,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_3_SD,,,,,,,,,39,,,,,,,,,,,,,,,,,,,330,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,neutral_1_Mean,,,,,,,,,,,,,,,,,,,,,,367.7,,,,,,,,,,,,,,,,,,,,,,,,,,845,,,,,,,,,,
+,,neutral_1_SD,,,,,,,,,,,,,,,,,,,,,,14.8,,,,,,,,,,,,,,,,,,,,,,,,,,23,,,,,,,,,,
+,,neutral_2_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,neutral_2_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,neutral_3_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,neutral_3_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,neutral_4_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,neutral_4_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,statistics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Tibetan: F(3,42) = 50.96,
+  P < 0.01",,,,,,,,,,
+,RT_Group3,Notes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,self_1_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,self_1_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,self_2_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,self_2_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_1_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_1_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_2_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_2_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,neutral_1_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,neutral_1_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Response_group1,note,"self,other,syllables;s yes,u yes",,,,,,"Proportion ‘‘yes’’ responses by condition.
+p6,Figure 2",,Proportion of ‘‘yes’’ responses (%);Non-religious,"yes',Self,Sakyamuni,Jesus,Zhu Rongji",,,"1.group1:women
+2.self(self male,self female)
+3.prototypcial male(male attribute,female attribute)
+4.prototypical female(male attribute,female attribute)
+
+page6,FIGURE 2 | Number of agreed items in the self-condition separated for women and men.",,,,,,,,,,,,,,proportion of the participants’ attribution of positive qualities,"page5,figure1,
+  mean attribution_response(yes)",,"page5,table2",,,"page13,figure2,
+  Median self-ascription scores","(page4,fig2a)percentage of ascribed positive and negative personality traits",,,,,,,,,,,,"""Yes""responses(%),Self,Mother,Father,Best friend,Liu-Xiang","Percentage of double-‘yes’ response,(self,other)x(Contradictory,non-Contradictory)",,,,,"see page5,fig.2B,C;
+  proportion of responses during the self-evaluation task (B) and proportion of responses during the social feedback task (C)",,,,,,
+,,self_1_Mean,11.5,,,,,,,,44.6,0.466,,,8.61,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,50.7,10.45%,,,,,,,,,,,
+,,self_1_SD,1.6,,,,,,,,2.3,0.029,,,2.66,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.9,15.13%,,,,,,,,,,,
+,,self_2_Mean,18.8,,,,,,,,,,,,14.83,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,35.88%,,,,,,,,,,,
+,,self_2_SD,1.9,,,,,,,,,,,,4.77,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.64%,,,,,,,,,,,
+,,self_3_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,self_3_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_1_Mean,10.8,,,,,,,,44.1,0.426,,,16.78,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,46.2,6.19%,,,,,,,,,,,
+,,other_1_SD,1.5,,,,,,,,2.7,0.016,,,3.84,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8.1,5.89%,,,,,,,,,,,
+,,other_2_Mean,,,,,,,,,45,0.412,,,14.44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,44.1,27.80%,,,,,,,,,,,
+,,other_2_SD,,,,,,,,,2.5,0.019,,,4.31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10.4,11.93%,,,,,,,,,,,
+,,other_3_Mean,,,,,,,,,43.4,0.435,,,12.78,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,45.4,,,,,,,,,,,,
+,,other_3_SD,,,,,,,,,2.7,0.015,,,3.17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,,,,,,,,,,,,
+,,other_4_Mean,,,,,,,,,,,,,18.94,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,44.5,,,,,,,,,,,,
+,,other_4_SD,,,,,,,,,,,,,2.82,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9.3,,,,,,,,,,,,
+,,neutral_1_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,neutral_1_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,neutral_2_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,neutral_2_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,neutral_3_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,neutral_3_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,statistics,,,,,,,,,,,,,,,,,,,,,,,,,,,"self vs other:F(1,30) = 0.119; p = 0.773",,,,,,,"valence (F = 511.34, df = 1, 22; P < 0.001)",,,,,,,,,,,,,,,,,,,,,,,,
+,Response_group2,note,,,,,,,,,"Proportion of ‘‘yes’’ responses (%), Christians",,,,"1.group2:men
+2.self(self male,self female)
+3.prototypcial male(male attribute,female attribute)
+4.prototypical female(male attribute,female attribute)
+page7,FIGURE 3 | Number of agreed items in the other conditions separated for women and men",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,self_1_Mean,,,,,,,,,45.4,,,,14.63,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,self_1_SD,,,,,,,,,2.9,,,,3.14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,self_2_Mean,,,,,,,,,,,,,11.89,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,self_2_SD,,,,,,,,,,,,,3.78,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,self_3_Mean,,,,,,,,,,,,,18.47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,self_3_SD,,,,,,,,,,,,,3.98,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_1_Mean,,,,,,,,,39.2,,,,14.68,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_1_SD,,,,,,,,,3.2,,,,4.21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_2_Mean,,,,,,,,,40.7,,,,12.52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_2_SD,,,,,,,,,3.1,,,,3.53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_3_Mean,,,,,,,,,43.1,,,,17.47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_3_SD,,,,,,,,,2.7,,,,3.06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,neutral_1_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,neutral_1_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,neutral_2_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,neutral_2_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,neutral_3_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,neutral_3_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,statistics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Response_group3,Notes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,self_1_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,self_1_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_1_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_1_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_2_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_2_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_3_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_3_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,neutral_1_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,neutral_1_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,neutral_2_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,neutral_2_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,neutral_3_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,neutral_3_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Rating_1,note,,,,,,,,,,,,,,,,,,,,,,,,,,,,NA,,,,,Figure 2,,,,,,,,,"Applicability scores in the Self and the Mother task;see page32,Figure 2.",,,"Means of subjective arousal and valence ratings ,
+  Fig. 3",,,,,,,,,,"page 3, 3.1, para 1",,,
+,,self_1_mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,NA,,,,,NA,,,,,,,,,,,,5.29,,,,,,,,,,,,,
+,,self_1_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,NA,,,,,NA,,,,,,,,,,,,1.43,,,,,,,,,,,,,
+,,self_2_mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,self_2_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_1_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,NA,,,,,NA,,,,,,,,,,,,4.44,,,,,,,,,,,,,
+,,other_1_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,NA,,,,,,,,,,,,,,,,,1.41,,,,,,,,,,,,,
+,,other_2_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_2_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,netrual_1_mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.41,,,,,,,,,,,,,
+,,netrual_1_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.33,,,,,,,,,,,,,
+,,netrual_2_mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,netrual_2_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,statistics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Z=-3.920, p<0.001",,,,,,,,,,,,,,,,,,,,,,,,,
+,Rating_2,note,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,valence,,,,,,,,,,,,,
+,,self_1_mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.62,,,,,,,,,,,,,
+,,self_1_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.18,,,,,,,,,,,,,
+,,self_2_mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,self_2_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_1_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.77,,,,,,,,,,,,,
+,,other_1_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.1,,,,,,,,,,,,,
+,,other_2_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_2_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,netrual_1_mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.53,,,,,,,,,,,,,
+,,netrual_1_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.4,,,,,,,,,,,,,
+,,netrual_2_mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,netrual_2_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,statistics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Retrieval_result,RT,note,"self,other,syllables;old/same,new",,,,,,,,,,1137,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,self_1_Mean,1627,,,,,,,,,,31,,,,,1137,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,self_1_SD,55,,,,,,,,,,,,,,,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,self_2_Mean,1695,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,self_2_SD,88,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,self_3_Mean,1821,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,self_3_SD,92,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_1_Mean,1680,,,,,,,,,,1188,,,,,1188,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_1_SD,96,,,,,,,,,,23,,,,,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_2_Mean,2004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_2_SD,93,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_3_Mean,1753,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_3_SD,99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Percent correct recognition,self other,FA(false alarm ()",,,,,
+,,Neutral_1_Mean,,,,,,,,,,,1152,,,,,1152,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,84.2,,,,,
+,,Neutral_1_SD,,,,,,,,,,,24,,,,,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10.5,,,,,
+,,Neutral_2_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Neutral_2_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Neutral_3_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,64.1,,,,,
+,,Neutral_3_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.9,,,,,
+,,Neutral_4_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Neutral_4_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,statistics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Accuracy_group1,note,"Percent correct;old/same,new","proportion of hits – false alarms,
+  positive, negative",,,,"Proportion of Correct Responses 
+  (hit rate–false-alarm rate),n=14",,,"proportion of hits minus false
+  alarms;Non-religious;Self;Sakyamuni;Jesus;Zhu-Rongji;Font","Total recognition score;Self ,Sakyamuni, Jesus ,Zhu Rongji, Font","Hits–false alarms,22 participants ( 10 female; mean age = 23 years)",,,,,,,,,,,,,,,,,,,,,,,"(page4,fig2b) hits/true positive answers during recognition",,"注意此处上下需要调换位置！
+proportion of old responses by trial type",proportion of old responses by trial type,,CRS,"Figure 2C,CRS[self-reference effect]|Page5",,,,"mean proportion of old recognition rates for old responses;forget,remember",,the proportion of hits minus false alarms;,,Z(hit)–Z(false alarm);Han,"Mean values of total recognition ratio,R;K;self,other,semantic,new words",,,,,,,,"Mean values of total recognition ratio,R;K;self,other,semantic,new words",
+,,self_1_Mean,82.2,0.68,,,,0.66,,,43.4,0.57,0.62,,,,,0.49,,,,,,,,,,,,,,,,,,,,0.43,0.44,,2.74,,,,,0.67,,44.5,,1.41,0.72,0.64(),,,,,,,0.72,0.64()
+,,self_1_SD,2.5,0.15,,,,0.17,,,10.4,0.135,0.04,,,,,0.02,,,,,,,,,,,,,,,,,,,,0.16,0.14,,,,,,,0.21,,19.3,,0.02,0.13,0.17,,,,,,,0.13,0.17
+,,self_2_Mean,93.5,0.57,,,,0.72,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.77,0.27,,,,,,,0.76,,,,,0.08,0.21,,,19.3,,,,0.08,0.21
+,,self_2_SD,1.3,0.19,,,,0.13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.11,0.16,,,,,,,0.16,,,,,0.04,0.19,,,11,,,,0.04,0.19
+,,self_3_Mean,74.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.27,,,,,,,,,,
+,,self_3_SD,3.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.03,,,,,,,,,,
+,,other_1_Mean,89.4,0.46,,,,,,,27.7,0.45,0.53,,,,,0.36,,,,,,,,,,,,,,,,,,,,0.34,0.36,,2.04,,,,,0.55,,38.6,,1.15,0.44,0.57,,,,,,,0.44,0.57
+,,other_1_SD,2.5,0.17,,,,,,,12.7,0.144,0.03,,,,,0.03,,,,,,,,,,,,,,,,,,,,0.12,0.17,,,,,,,0.19,,18.2,,0.02,0.19,0.21,,,,,,,0.19,0.21
+,,other_2_Mean,,0.43,,,,,,,31.1,0.4,,,,,,,,,,,,,,,,,,,,,,,,,,0.68,0.3,,,,,,,0.67,,36.6,,,0.23,0.18,,,,,,,0.23,0.18
+,,other_2_SD,,0.22,,,,,,,15.1,0.179,,,,,,,,,,,,,,,,,,,,,,,,,,0.14,0.19,,,,,,,0.19,,16.3,,,0.14,0.12,,,,,,,0.14,0.12
+,,other_3_Mean,,,,,,,,,32.2,0.41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,36.1,,,,,,,,,,,,
+,,other_3_SD,,,,,,,,,12.9,0.122,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20.3,,,,,,,,,,,,
+,,other_4_Mean,63.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,29.2,,0.36,,,,,,,,,,
+,,other_4_SD,3.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.7,,0.02,,,,,,,,,,
+,,Neutral_1_Mean,85.6,0.53,,,,0.53,,,9.29,0.1,0.21,,,,,0.17,,,,,,,,,,,,,,,,,,,,0.22,0.13,,1.02,,,,,,,7,,,0.5,0.5,,,,,,,0.5,0.5
+,,Neutral_1_SD,3.1,0.13,,,,0.28,,,12.4,0.113,0.05,,,,,0.03,,,,,,,,,,,,,,,,,,,,0.12,0.12,,,,,,,,,8.4,,,0.19,0.15,,,,,,,0.19,0.15
+,,Neutral_2_Mean,,0.5,,,,0.68,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.23,0.33,,,,,,,,,,,,0.23,0.28,,,,,,,0.23,0.28
+,,Neutral_2_SD,,0.18,,,,0.15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.1,0.21,,,,,,,,,,,,0.12,0.16,,,,,,,0.12,0.16
+,,Neutral_3_Mean,,,,,,0.24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.03,0.05,,,,,,,0.03,0.05
+,,Neutral_3_SD,,,,,,0.18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.02,0.06,,,,,,,0.02,0.06
+,,Neutral_4_Mean,,,,,,0.31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.09,0.05,,,,,,,0.09,0.05
+,,Neutral_4_SD,,,,,,0.15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.04,0.04,,,,,,,0.04,0.04
+,,statistics,,"condition (F(2,13) =
+  15.59, p < .001, e = 0.89)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"valence (F =19.74, df =1, 22; P < 0.001)",,,,,,,,,,,,,,,,,,,,,,,,
+,Accuracy_group2,note,,,,,,,,,Christian,"Score of remember;Self ,Sakyamuni, Jesus ,Zhu Rongji, Font",,,,,,,,,,,,,,,,,,,,,,,,,,conceptual self-reference task,,,,,,,,,,,,"Tibetan,self,mother,other,font",,,,,,,,,,
+,,self_1_Mean,,,,,,,,,48.3,0.61,,,,,,,,,,,,,,,,,,,,,,,,,,0.54,,,,,,,,,,,,0.88,,,,,,,,,,
+,,self_1_SD,,,,,,,,,20.3,0.113,,,,,,,,,,,,,,,,,,,,,,,,,,0.15,,,,,,,,,,,,0.03,,,,,,,,,,
+,,self_2_Mean,,,,,,,,,,0.47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,self_2_SD,,,,,,,,,,0.147,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_1_Mean,,,,,,,,,32.5,0.35,,,,,,,,,,,,,,,,,,,,,,,,,,0.45,,,,,,,,,,,,0.77,,,,,,,,,,
+,,other_1_SD,,,,,,,,,18.4,0.223,,,,,,,,,,,,,,,,,,,,,,,,,,0.18,,,,,,,,,,,,0.03,,,,,,,,,,
+,,other_2_Mean,,,,,,,,,37,0.4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.7,,,,,,,,,,
+,,other_2_SD,,,,,,,,,17.9,0.158,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.03,,,,,,,,,,
+,,other_3_Mean,,,,,,,,,34.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_3_SD,,,,,,,,,17.4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Neutral_1_Mean,,,,,,,,,13.6,0.13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.3,,,,,,,,,,
+,,Neutral_1_SD,,,,,,,,,10,0.127,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Neutral_2_Mean,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Neutral_2_SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,statistics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Other_result,,note,,,,,,,,,"p8, Fig1.B",,,,,,,,,,,,,,,,,,,,"page4|Experiment 2,a series of six questions,
+  probing how important they thought the character and appearance of themselves, their mother, and President Bush
+  were to their own conceptions of themselves",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,self,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,other_2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,neutral,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Anova or t-test,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
