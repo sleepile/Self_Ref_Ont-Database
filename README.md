@@ -123,7 +123,7 @@ The `suppl_material` folder is home to supplementary documents and files that su
 │   └── Ont_Heal_Self_foci_v1
 │       └── Ont_Heal_Self_foci_v1
 │
-└── ReadMe.md
+└── README.md
 ```
 
 ## Contact
