@@ -34,6 +34,98 @@ The `suppl_material` folder is home to supplementary documents and files that su
 - `手册_自我参照_文章信息.csv`: Codebook for `自我参照_文章信息.csv`.
 - `手册_自我参照_操作化定义.csv`: Codebook for `自我参照_操作化定义.csv`.
 
+### `Folder structure`
+```
+.
+├── 1_Reference
+│   ├── 1_1_Meta_Guideline
+│   │
+│   ├── 1_2_Database
+│   │   ├── About_RawData.txt
+│   │   └── RawData
+│   │
+│   ├── 1_3_Psych_ALE_Meta_Guideline
+│   │   ├── 1_3_1_Data
+│   │   ├── 1_3_2_Script
+│   │   └── About_Analysis.txt
+│   │
+│   ├── 1_4_Self_ref
+│   │   ├── 1_3_1_Data
+│   │   ├── 1_3_2_Script
+│   │   └── About_Analysis.txt
+│   │
+│   └── About.txt
+│
+├── 2_Literature Search
+│   ├── About.txt
+│   ├── Keyword_search.txt
+│   └── Literature_Search.docx
+│
+├── 3 Article Screen
+│   └── Endnote_files
+│       ├── 3_1_Self-ref_hcp
+│       │   └── self-ref-Converted.Data/sdb
+│       │
+│       ├── 3_2_self_reference_sst_firstTrial
+│       │   └── self_ref_until21.Data/sdb
+│       │
+│       ├── 3_3_self_reference_sst_secondTrial
+│       │   └── self_ref_until21.Data/sdb
+│       │
+│       ├── 3_4_Self_ref_formal
+│       │   └── Self_ref_v1.Data/sdb
+│       │
+│       └── add_Neurosy+Query_0710
+│           └── add0710.Data/sdb
+│
+├── 4 Data Extraction
+│   ├── 4_1_Codebook
+│   │   ├── 4_1_1_cookbook
+│   │   └── 4_1_2_codebook
+│   │
+│   ├── 4_2_Coordinate
+│   │   ├── 4_1_First_trial
+│   │   ├── 4_2_Second_trial/All_data_sst
+│   │   │   ├── Data_JiaHui
+│   │   │   └── Data_wangNan/wang
+│   │   │
+│   │   ├── 4_3_Thrid_Data_extraction
+│   │   ├── 4_4_Forth_trial
+│   │   │   ├── 8.22-8.25
+│   │   │   └── sun_all
+│   │   │
+│   │   └── 4_5_Fifth_trial/Tal_to_mni
+│   │
+│   ├── 4_3_Manual
+│   │   ├── 4_3_1_Manual_v1
+│   │   ├── 4_3_2_Manual_v2
+│   │   └── 4_3_3_Manual_v3
+│   │
+│   └── About.txt
+│
+├── 5 Analysis
+│   ├── 5_3_ThirdTrial/Database_v13
+│   │   ├── Self_foci_raw
+│   │   └── Suppl_materials
+│   │       └── Suppl_Data_Results
+│   └── About.txt
+│
+├── 6 Reports
+│   ├── 6_1_Project_reports [slides]
+│   └── 6_2_preprint
+│       ├── 6_2_1_First_trial
+│       ├── 6_2_2_Second_trial
+│       └── 6_2_3_Third_trial
+│           ├── Article
+│           └── Reply
+│
+├── 7 Dataset
+│   └── Ont_Heal_Self_foci_v1
+│       └── Ont_Heal_Self_foci_v1
+│
+└── ReadMe.md
+```
+
 ## Contact
 - Prof. Hu Chuan-Peng (hcp4715@hotmail.com)
 - Shu-ting Sun (Version 2, sunshuting19@163.com)
